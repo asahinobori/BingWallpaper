@@ -29,3 +29,6 @@ use system crontab to excute it every day
 | uhdheight | 图片高度。当uhd=1时生效。最大值为2592，超过这个值当作2592处理。 |
 | setmkt | 指定图片相关的区域信息。如图片名中包含的EN-CN、EN-US或者ZH-CN等。当域名为global.bing.com时才会有相应变化。值的格式：en-us、zh-cn等。 |
 | setlang | 指定返回数据所使用的语言。值的格式：en-us、zh-cn等。 |
+
+# others
+an excellent java implementation: [bing-wallpaper](https://github.com/niumoo/bing-wallpaper)
