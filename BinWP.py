@@ -21,7 +21,7 @@ import requests
 from requests.adapters import HTTPAdapter
 from PIL import Image
 
-import win32gui, win32con, win32api
+import win32gui, win32con
 
 class BingWallpaper(object):
     # Link below will GET BingWallpaper info data (json)
