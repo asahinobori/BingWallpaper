@@ -1,4 +1,4 @@
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 #!/usr/bin/python
 
 #
@@ -11,6 +11,7 @@
 # history   1.0, 2016.01.16, Yousein Chan, Create the file.
 #           1.1, 2018.08.14, Yousein Chan, Fixed for Win7, must use BMP file.
 #           2.0, 2024.04.09, Yousein Chan, robust code, log, retry for net request failure
+#           2.1, 2024.04.25, Yousein Chan, support other platform
 
 import os
 import sys
@@ -18,10 +19,14 @@ import json
 import glob
 import logging
 import requests
+import argparse
+import platform
 from requests.adapters import HTTPAdapter
 from PIL import Image
 
-import win32gui, win32con
+if platform.system().lower().startswith("win"):
+    import win32gui, win32con
+
 
 class BingWallpaper(object):
     # Link below will GET BingWallpaper info data (json)
@@ -29,83 +34,110 @@ class BingWallpaper(object):
     URL_FETCH_BING_IMG = "https://global.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=2560&uhdheight=1440&setmkt=zh-CN&setlang=en"
     URL_DOWNLOAD_BING_IMG = "https://cn.bing.com"
     LOCAL_STORE_FILE = "./wallpaper.jpg"
+    LOCAL_STORE_FILE_BMP = "./wallpaper.bmp"
+    HTTP_HEADER_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0"
+    HTTP_REQUEST_RETRY = 3
+    FETCH_JSON_TIMEOUT = 5
+    DOWNLOAD_IMG_TIMEOUT = 10
 
-    def __init__(self, args):
+    def __init__(self, num):
         self._s = requests.Session()
-        self._s.mount('http://', HTTPAdapter(max_retries=3))
-        self._s.mount('https://', HTTPAdapter(max_retries=3))
+        self._s.mount("http://", HTTPAdapter(max_retries=self.HTTP_REQUEST_RETRY))
+        self._s.mount("https://", HTTPAdapter(max_retries=self.HTTP_REQUEST_RETRY))
 
-        if(len(args) == 0):
+        if num < 0:
             self._n = 0
+        elif num > 7:
+            self._n = 7
         else:
-            i = int(args[0])
-            if(i < 0):
-                self._n = 0
-            elif(i > 7):
-                self._n = 7
-            else:
-                self._n = i
+            self._n = num
+
+    def fetchJSON(self):
+        logger.info("Fetch json start")
+        url = self.URL_FETCH_BING_IMG
+        timeout = self.FETCH_JSON_TIMEOUT
+        headers = {"User-Agent": self.HTTP_HEADER_USER_AGENT}
+        try:
+            res = self._s.get(url, timeout=timeout, headers=headers)
+            logger.info("Fetch json successfully")
+            return res.text
+        except requests.exceptions.RequestException as e:
+            logger.error(f"Fetch json failed, exception: {e}")
+            sys.exit(1)
 
     def parseImageURL(self, jsondata):
         title = jsondata["images"][self._n]["title"]
         copyright = jsondata["images"][self._n]["copyright"]
-        copyrightlink = self.URL_DOWNLOAD_BING_IMG + jsondata["images"][self._n]["copyrightlink"]
+        copyrightlink = (
+            self.URL_DOWNLOAD_BING_IMG + jsondata["images"][self._n]["copyrightlink"]
+        )
         url = self.URL_DOWNLOAD_BING_IMG + jsondata["images"][self._n]["url"]
 
-        logging.info(f"title: {title}")
-        logging.info(f"copyright: {copyright}")
-        logging.info(f"copyright link: {copyrightlink}")
-        logging.info(f"url: {url}")
+        logger.info(f"title: {title}")
+        logger.info(f"copyright: {copyright}")
+        logger.info(f"copyright link: {copyrightlink}")
+        logger.info(f"url: {url}")
         return url
 
-    def fetchJSON(self):
-        logging.info("Fetch json start")
-        url = self.URL_FETCH_BING_IMG
-        headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0"}
-        try:
-            res = self._s.get(url, timeout=5, headers=headers)
-            logging.info("Fetch json successfully")
-            return res.text
-        except requests.exceptions.RequestException as e:
-            print(e)
-            logging.info("Fetch json failed")
-            sys.exit(1)
-
     def downloadImage(self, url):
-        logging.info("Download image start")
+        logger.info("Download image start")
+        timeout = self.DOWNLOAD_IMG_TIMEOUT
         try:
-            request = self._s.get(url, timeout=10, stream=True)
-            with open(BingWallpaper.LOCAL_STORE_FILE, 'wb') as fh:
+            request = self._s.get(url, timeout=timeout, stream=True)
+            with open(self.LOCAL_STORE_FILE, "wb") as fh:
                 for chunk in request.iter_content(1024 * 1024):
                     fh.write(chunk)
-            logging.info("Download image successfully")
+            logger.info("Download image successfully")
         except requests.exceptions.RequestException as e:
-            print(e)
-            logging.info("Download image failed")
+            logger.error(f"Download image failed, exception: {e}")
             sys.exit(1)
 
+    # only work on Windows system
     def setWallpaper(self):
-        # k = win32api.RegOpenKeyEx(win32con.HKEY_CURRENT_USER, "Control Panel\\Desktop", 0, win32con.KEY_SET_VALUE)
-        # win32api.RegSetValueEx(k, "WallpaperStyle", 0, win32con.REG_SZ, "10")
-        # win32api.RegSetValueEx(k, "TileWallpaper", 0, win32con.REG_SZ, "0")
-        logging.info("Set wallpaper start")
+        logger.info("Set wallpaper start")
         path = os.getcwd()
-        bmpImage = Image.open(path+"\\wallpaper.jpg")
-        bmpImage.save(path+"\\wallpaper.bmp", "BMP")
-        win32gui.SystemParametersInfo(win32con.SPI_SETDESKWALLPAPER, path+"\\wallpaper.bmp", 1+2)
-        logging.info("Set wallpaper successfully")
+        bmpImage = Image.open(path + self.LOCAL_STORE_FILE)
+        bmpImage.save(path + self.LOCAL_STORE_FILE_BMP, "BMP")
+        win32gui.SystemParametersInfo(
+            win32con.SPI_SETDESKWALLPAPER, path + self.LOCAL_STORE_FILE_BMP, 1 + 2
+        )
+        logger.info("Set wallpaper successfully")
 
     def run(self):
         jsondata = json.loads(self.fetchJSON())
         url = self.parseImageURL(jsondata)
         self.downloadImage(url)
 
+
 # Bing Wallpaper Auto Change Tool start here
-if __name__ == '__main__':
+if __name__ == "__main__":
+    # setup argument parser
+    parser = argparse.ArgumentParser(
+        description="Get Bing Wallpaper (today to the day before the 8th day)."
+    )
+    parser.add_argument(
+        "-n", "--num", default=0, type=int, help="the day before the Nth day"
+    )
+    parser.add_argument(
+        "-p",
+        "--pure",
+        action="store_true",
+        help="only download but not set wallpaper",
+        dest="pure",
+    )
+    args = parser.parse_args()
+
     # setup logging
-    logging.basicConfig(level=logging.INFO, filename="log.txt", encoding="utf-8", filemode="a",
-                        format="%(asctime)s %(levelname)s [%(process)d] %(message)s")
-    logging.info("Start")
+    logFormatter = logging.Formatter(
+        "%(asctime)s %(levelname)s [%(process)d] %(message)s"
+    )
+    logHandler = logging.FileHandler("log.txt", "a", "utf-8")
+    logHandler.setFormatter(logFormatter)
+    logger = logging.getLogger()
+    logger.addHandler(logHandler)
+    logger.setLevel(logging.INFO)
+
+    logger.info("Start")
 
     # count image existed
     jpgfile_cnt = 0
@@ -114,27 +146,17 @@ if __name__ == '__main__':
 
     # backup last wallpaper
     backupname = jpgfile_cnt + 1
-    logging.info(f"backup name: {backupname}.jpg")
-    if os.path.exists("wallpaper.jpg"):
-        os.rename("wallpaper.jpg", str(backupname)+".jpg")
-    
+    logger.info(f"backup name: {backupname}.jpg")
+    if os.path.exists(BingWallpaper.LOCAL_STORE_FILE):
+        os.rename(BingWallpaper.LOCAL_STORE_FILE, str(backupname) + ".jpg")
+
     # fetch latest bing wallpaper
-    bingWallpaper = BingWallpaper(sys.argv[1:])
+    bingWallpaper = BingWallpaper(args.num)
     bingWallpaper.run()
 
-    # set wallpaper
-    bingWallpaper.setWallpaper()
+    # set wallpaper, work on Windows system
+    if (not args.pure) and platform.system().lower().startswith("win"):
+        bingWallpaper.setWallpaper()
 
-    logging.info("Done")
+    logger.info("Done")
     sys.exit(0)
-
-# Note:
-# WallpaperStyle
-# 0:  The image is centered if TileWallpaper=0 or tiled if TileWallpaper=1
-# 2:  The image is stretched to fill the screen
-# 6:  The image is resized to fit the screen while maintaining the aspect ratio. (Windows 7 and later)
-# 10: The image is resized and cropped to fill the screen while maintaining the aspect ratio. (Windows 7 and later)
-
-# TileWallpaper
-# 0: The wallpaper picture should not be tiled
-# 1: The wallpaper picture should be tiled
