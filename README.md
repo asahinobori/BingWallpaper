@@ -1,15 +1,16 @@
-**Work on windows system, download bing wallpaper and set up to desktop wallpaper**
+**Download bing wallpaper**  
+**Set up to desktop wallpaper on Windows system**  
 # Usage
 ```
-python BinWP.py [0-7]
+python BinWP.py [-p] [-n num]
 ```
 or
 ```
 pip install pyinstaller
 pyinstaller --noconsole --onefile BinWP.py
-BinWP.exe [0-7]
+BinWP.exe [-p] [-n num]
 ```
-to get the exe file  
+to get the exe file work for windows
   
 **note:**  
 use system crontab to excute it every day
