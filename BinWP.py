@@ -12,6 +12,7 @@
 #           1.1, 2018.08.14, Yousein Chan, Fixed for Win7, must use BMP file.
 #           2.0, 2024.04.09, Yousein Chan, robust code, log, retry for net request failure
 #           2.1, 2024.04.25, Yousein Chan, support other platform
+#           2.2, 2024.04.26, Yousein Chan, support update readme.md, select state
 
 import os
 import sys
@@ -35,6 +36,7 @@ class BingWallpaper(object):
     URL_DOWNLOAD_BING_IMG = "https://cn.bing.com"
     LOCAL_STORE_FILE = "./wallpaper.jpg"
     LOCAL_STORE_FILE_BMP = "./wallpaper.bmp"
+    LOCAL_README_FILE = "./README.md"
     HTTP_HEADER_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0"
     HTTP_REQUEST_RETRY = 3
     FETCH_JSON_TIMEOUT = 5
@@ -66,6 +68,7 @@ class BingWallpaper(object):
             sys.exit(1)
 
     def parseImageURL(self, jsondata):
+        enddate = jsondata["images"][self._n]["enddate"]
         title = jsondata["images"][self._n]["title"]
         copyright = jsondata["images"][self._n]["copyright"]
         copyrightlink = (
@@ -77,7 +80,7 @@ class BingWallpaper(object):
         logger.info(f"copyright: {copyright}")
         logger.info(f"copyright link: {copyrightlink}")
         logger.info(f"url: {url}")
-        return url
+        return url, enddate, title, copyright
 
     def downloadImage(self, url):
         logger.info("Download image start")
@@ -103,10 +106,35 @@ class BingWallpaper(object):
         )
         logger.info("Set wallpaper successfully")
 
+    def updateReadMe(self, url, enddate, title, desc):
+        logger.info("Update README.md start")
+        date = enddate[0:4] + "-" + enddate[4:6] + "-" + enddate[6:]
+        smallUrl = url
+        pos = url.find("&")
+        if pos != -1:
+            smallUrl = url[0:pos] + "&w=1000"
+        else:
+            smallUrl = url + "&w=1000"
+
+        content = f"![]({smallUrl})[{desc}]({url})"
+        print(title)
+        print(content)
+        with open(self.LOCAL_README_FILE, "r+", encoding="utf-8") as fh:
+            lines = fh.readlines()
+            if len(lines) >= 3:
+                lines[1] = date + ": " + title + "  \n"
+                lines[2] = content + "\n"
+                fh.seek(0)
+                fh.writelines(lines)
+        logger.info("Update README.md Successfully")
+
     def run(self):
         jsondata = json.loads(self.fetchJSON())
-        url = self.parseImageURL(jsondata)
-        self.downloadImage(url)
+        url, enddate, title, desc = self.parseImageURL(jsondata)
+        if args.update:
+            self.updateReadMe(url, enddate, title, desc)
+        if args.state > 0:
+            self.downloadImage(url)
 
 
 # Bing Wallpaper Auto Change Tool start here
@@ -116,14 +144,29 @@ if __name__ == "__main__":
         description="Get Bing Wallpaper (today to the day before the 8th day)."
     )
     parser.add_argument(
-        "-n", "--num", default=0, type=int, help="the day before the Nth day"
+        "-n",
+        default=0,
+        type=int,
+        choices=range(0, 8),
+        metavar="[0-7]",
+        help="number, the day before the Nth day, default is 0",
+        dest="number",
     )
     parser.add_argument(
-        "-p",
-        "--pure",
+        "-s",
+        default=2,
+        type=int,
+        choices=range(0, 3),
+        metavar="[0-2]",
+        help="state, 0 -> 2 for 0:(get_link) -> 1:(download_img) -> 2:(set_wallpaper), default is 2",
+        dest="state",
+    )
+    parser.add_argument(
+        "-u",
+        "--update",
         action="store_true",
-        help="only download but not set wallpaper",
-        dest="pure",
+        help="only get bing wallpaper link and update README.md",
+        dest="update",
     )
     args = parser.parse_args()
 
@@ -131,31 +174,36 @@ if __name__ == "__main__":
     logFormatter = logging.Formatter(
         "%(asctime)s %(levelname)s [%(process)d] %(message)s"
     )
-    logHandler = logging.FileHandler("log.txt", "a", "utf-8")
+    if args.update:
+        logHandler = logging.StreamHandler()
+        args.state = 0
+    else:
+        logHandler = logging.FileHandler("log.txt", "a", "utf-8")
+
     logHandler.setFormatter(logFormatter)
     logger = logging.getLogger()
     logger.addHandler(logHandler)
     logger.setLevel(logging.INFO)
-
     logger.info("Start")
 
-    # count image existed
-    jpgfile_cnt = 0
-    for name in glob.glob("*[0-9]*.jpg"):
-        jpgfile_cnt += 1
+    # count image existed and backup wallpaper
+    if not args.update:
+        jpgfileCnt = 0
+        for name in glob.glob("*[0-9]*.jpg"):
+            jpgfileCnt += 1
 
-    # backup last wallpaper
-    backupname = jpgfile_cnt + 1
-    logger.info(f"backup name: {backupname}.jpg")
-    if os.path.exists(BingWallpaper.LOCAL_STORE_FILE):
-        os.rename(BingWallpaper.LOCAL_STORE_FILE, str(backupname) + ".jpg")
+        # backup last wallpaper
+        backupName = jpgfileCnt + 1
+        logger.info(f"backup name: {backupName}.jpg")
+        if os.path.exists(BingWallpaper.LOCAL_STORE_FILE):
+            os.rename(BingWallpaper.LOCAL_STORE_FILE, str(backupName) + ".jpg")
 
     # fetch latest bing wallpaper
-    bingWallpaper = BingWallpaper(args.num)
+    bingWallpaper = BingWallpaper(args.number)
     bingWallpaper.run()
 
-    # set wallpaper, work on Windows system
-    if (not args.pure) and platform.system().lower().startswith("win"):
+    # set wallpaper, work on Windows system, work at state 2
+    if (args.state >= 2) and platform.system().lower().startswith("win"):
         bingWallpaper.setWallpaper()
 
     logger.info("Done")
