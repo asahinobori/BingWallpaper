@@ -122,9 +122,10 @@ class BingWallpaper(object):
         with open(self.LOCAL_README_FILE, "r+", encoding="utf-8") as fh:
             lines = fh.readlines()
             if len(lines) >= 3:
-                lines[1] = date + ": " + title + "  \n"
+                lines[1] = "**" + date + ":** " + title + "  \n"
                 lines[2] = content + "\n"
                 fh.seek(0)
+                fh.truncate()
                 fh.writelines(lines)
         logger.info("Update README.md Successfully")
 
