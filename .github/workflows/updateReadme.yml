@@ -35,15 +35,11 @@ jobs:
       run: |
         python3 BinWP.py -u
 
-    - name: Commit files
-      run: |
-        git config --local user.email ${{ secrets.USER_EMAIL }}
-        git config --local user.name ${{ secrets.USER_NAME }}
-        git commit -a -m "daily update README.md"
-
-    - name: Push changes to branch master
-      uses: ad-m/github-push-action@master
+    - name: Commit files and push changes to branch master
+      uses: actions-js/push@master
       with:
         force: true
         branch: "master"
         github_token: ${{ secrets.TOKEN_REPO }}
+        author_email: ${{ secrets.USER_EMAIL }}
+        author_name: ${{ secrets.USER_NAME }}
