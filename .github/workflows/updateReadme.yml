@@ -11,9 +11,7 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
@@ -29,17 +27,22 @@ jobs:
 
     - name: Gettings files from Repo
       uses: actions/checkout@v4
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
     - name: Update README.md
       run: |
         python3 BinWP.py -u
 
-    - name: Commit and push changes to branch master
-      uses: actions-js/push@master
+    - name: Commit files
+      run: |
+        git config --local user.email ${{ secrets.USER_EMAIL }}
+        git config --local user.name ${{ secrets.USER_NAME }}
+        git commit -a -m "daily update README.md"
+
+    - name: Push changes to branch master
+      uses: ad-m/github-push-action@master
       with:
-        force: true
         branch: "master"
-        user_name: ${{ secrets.USER_NAME }}
-        user_email: ${{ secrets.USER_EMAIL }}
         github_token: ${{ secrets.TOKEN_REPO }}
-        commit_message: "daily update README.md"
