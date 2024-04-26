@@ -117,8 +117,6 @@ class BingWallpaper(object):
             smallUrl = url + "&w=1000"
 
         content = f"![]({smallUrl})[{desc}]({url})"
-        print(title)
-        print(content)
         with open(self.LOCAL_README_FILE, "r+", encoding="utf-8") as fh:
             lines = fh.readlines()
             if len(lines) >= 3:
