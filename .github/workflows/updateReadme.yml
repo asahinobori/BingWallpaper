@@ -43,3 +43,4 @@ jobs:
         github_token: ${{ secrets.TOKEN_REPO }}
         author_email: ${{ secrets.USER_EMAIL }}
         author_name: ${{ secrets.USER_NAME }}
+        message: "update README.md daily"
