@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-04-28:** 去公园走走吧！  
-![](https://cn.bing.com/th?id=OHR.GuadalupeTexas_ZH-CN3911419948_UHD.jpg&w=1000)[瓜达卢佩山脉国家公园日出时的埃尔卡皮坦山，德克萨斯州，美国 (© Adam Mowery/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GuadalupeTexas_ZH-CN3911419948_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-04-29:** 被保存得很好的古建筑  
+![](https://cn.bing.com/th?id=OHR.TulouFujian_ZH-CN4287018074_UHD.jpg&w=1000)[福建土楼，福建省历史文化遗产建筑，中国 (© Hongjie Han/Getty Images)](https://cn.bing.com/th?id=OHR.TulouFujian_ZH-CN4287018074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
