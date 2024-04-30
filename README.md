@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-04-29:** 被保存得很好的古建筑  
-![](https://cn.bing.com/th?id=OHR.TulouFujian_ZH-CN4287018074_UHD.jpg&w=1000)[福建土楼，福建省历史文化遗产建筑，中国 (© Hongjie Han/Getty Images)](https://cn.bing.com/th?id=OHR.TulouFujian_ZH-CN4287018074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-04-30:** “草原大喵”的完美速度  
+![](https://cn.bing.com/th?id=OHR.CheetahRain_ZH-CN6722375507_UHD.jpg&w=1000)[清晨雨中的猎豹，恩杜图平原，恩戈罗恩戈罗保护区，坦桑尼亚 (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.CheetahRain_ZH-CN6722375507_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
