@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-05-01:** 夏威夷的花环节  
-![](https://cn.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg&w=1000)[夏威夷花环 (© Jotika Pun/Shutterstock)](https://cn.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-05-02:** “月球一日游”  
+![](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg&w=1000)[蓝龙熔岩流，月球陨石坑国家纪念碑和保护区，爱达荷州，美国 (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
