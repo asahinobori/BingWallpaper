@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-05-03:** 最热的地方也有凉爽之处  
-![](https://cn.bing.com/th?id=OHR.SonoranSpring_ZH-CN9246678734_UHD.jpg&w=1000)[春天盛开的沙漠毒菊，索诺拉沙漠，亚利桑那州 (© Charles Harker/Getty Images)](https://cn.bing.com/th?id=OHR.SonoranSpring_ZH-CN9246678734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-05-04:** 愿原力与你同在！  
+![](https://cn.bing.com/th?id=OHR.JediMonastery_ZH-CN0091557941_UHD.jpg&w=1000)[斯凯利格·迈克尔岛上一座古老修道院的废墟，爱尔兰 (© MNStudio/Getty Images)](https://cn.bing.com/th?id=OHR.JediMonastery_ZH-CN0091557941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
