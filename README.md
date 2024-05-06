@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-05-05:** 为墨西哥干杯!  
-![](https://cn.bing.com/th?id=OHR.SanMiguelAllende_ZH-CN1840507091_UHD.jpg&w=1000)[圣米格尔德阿连德的柱廊，瓜那华托州，墨西哥 (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.SanMiguelAllende_ZH-CN1840507091_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-05-06:** 峰区一瞥  
+![](https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_ZH-CN2657532467_UHD.jpg&w=1000)[罗奇斯山脊，英格兰峰区 (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_ZH-CN2657532467_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
