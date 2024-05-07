@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-05-06:** 峰区一瞥  
-![](https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_ZH-CN2657532467_UHD.jpg&w=1000)[罗奇斯山脊，英格兰峰区 (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_ZH-CN2657532467_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-05-07:** 水影里的小黄鸭  
+![](https://cn.bing.com/th?id=OHR.LittleDuckling_ZH-CN2922471258_UHD.jpg&w=1000)[一只小鸭子在水草地上游泳，萨福克郡，英国 (© Nick Hurst/Getty Images)](https://cn.bing.com/th?id=OHR.LittleDuckling_ZH-CN2922471258_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
