@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-05-10:** 岛屿在召唤！  
-![](https://cn.bing.com/th?id=OHR.MisoolRajaAmpat_ZH-CN3557473032_UHD.jpg&w=1000)[米苏尔岛，拉贾安帕群岛，印度尼西亚 (© Giordano Cipriani/Getty Images)](https://cn.bing.com/th?id=OHR.MisoolRajaAmpat_ZH-CN3557473032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-05-11:** 小蓝鸟一路顺风  
+![](https://cn.bing.com/th?id=OHR.TexasIndigoBunting_ZH-CN3699392300_UHD.jpg&w=1000)[树枝上栖息的靛蓝彩鹀，德克萨斯州 (© Jeff R Clow/Getty Images)](https://cn.bing.com/th?id=OHR.TexasIndigoBunting_ZH-CN3699392300_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
