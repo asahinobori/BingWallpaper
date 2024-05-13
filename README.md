@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-05-12:** 放牧和饲养  
-![](https://cn.bing.com/th?id=OHR.GuanacoMother_ZH-CN3856540256_UHD.jpg&w=1000)[潘帕省草原上的雌性原驼和它新出生的宝宝，阿根廷 (© Gabriel Rojo/Minden Pictures)](https://cn.bing.com/th?id=OHR.GuanacoMother_ZH-CN3856540256_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-05-13:** 鱼眼视角  
+![](https://cn.bing.com/th?id=OHR.NamibiaCanyon_ZH-CN3973338246_UHD.jpg&w=1000)[鱼河大峡谷，纳米比亚 (© R. M. Nunes/Getty Images)](https://cn.bing.com/th?id=OHR.NamibiaCanyon_ZH-CN3973338246_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
