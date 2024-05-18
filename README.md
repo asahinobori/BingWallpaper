@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-05-17:** 今天不是无关紧要的一天  
-![](https://cn.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_UHD.jpg&w=1000)[塔兰吉雷国家公园的非洲象家族，坦桑尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-05-18:** 流浪者未必都是迷路人  
+![](https://cn.bing.com/th?id=OHR.PacificRimNationalPark_ZH-CN5809123424_UHD.jpg&w=1000)[破碎群岛，环太平洋国家公园保护区，不列颠哥伦比亚省温哥华岛，加拿大 (© Ron Watts/Design Pics/Getty Images)](https://cn.bing.com/th?id=OHR.PacificRimNationalPark_ZH-CN5809123424_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
