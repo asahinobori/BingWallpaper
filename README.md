@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-05-19:** 历史与大海的交汇处  
-![](https://cn.bing.com/th?id=OHR.VernazzaItaly_ZH-CN6245826569_UHD.jpg&w=1000)[韦尔纳扎村，五渔村，利古里亚，意大利 (© Roberto Moiola/Sysaworld/Getty Images)](https://cn.bing.com/th?id=OHR.VernazzaItaly_ZH-CN6245826569_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-05-20:** 我简直不敢相信！  
+![](https://cn.bing.com/th?id=OHR.HoneycombBee_ZH-CN6572760814_UHD.jpg&w=1000)[蜜蜂照料蜂巢 (© Simun Ascic/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.HoneycombBee_ZH-CN6572760814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
