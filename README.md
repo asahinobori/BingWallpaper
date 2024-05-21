@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-05-20:** 我简直不敢相信！  
-![](https://cn.bing.com/th?id=OHR.HoneycombBee_ZH-CN6572760814_UHD.jpg&w=1000)[蜜蜂照料蜂巢 (© Simun Ascic/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.HoneycombBee_ZH-CN6572760814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-05-21:** 充满茶香的一天  
+![](https://cn.bing.com/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg&w=1000)[卡梅隆高地茶园，马拉西亚 (© alex cheong/Getty Images)](https://cn.bing.com/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
