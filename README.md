@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-05-23:** 寻找一个“庇护所”  
-![](https://cn.bing.com/th?id=OHR.IndianStarTortoise_ZH-CN7177478610_UHD.jpg&w=1000)[印度星龟，斯里兰卡 (© Robin Chittenden/Minden Pictures)](https://cn.bing.com/th?id=OHR.IndianStarTortoise_ZH-CN7177478610_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-05-24:** 一路到顶峰  
+![](https://cn.bing.com/th?id=OHR.OrdesaNationalPark_ZH-CN8545620273_UHD.jpg&w=1000)[阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙 (© Marisa Estivill/Shutterstock)](https://cn.bing.com/th?id=OHR.OrdesaNationalPark_ZH-CN8545620273_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
