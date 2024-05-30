@@ -5,7 +5,14 @@
 # About
 **1) Download bing wallpaper**  
 **2) Set desktop wallpaper on Windows system**  
-  
+
+# Requirement
+```
+python -m pip install --upgrade pip
+pip install Pillow
+pip install requests
+```
+
 # Usage
 ```
 python BinWP.py [-h] [-n [0-7]] [-s [0-2]] [-u]
@@ -21,7 +28,7 @@ to get the exe file work for windows
 **note:**  
 use system crontab to excute it every day
 
-# URL param
+# URL param description of Bing http API
 | param | description |
 | --- | --- |
 | format | 返回的数据格式。hp为html格式；js为json格式；其他值为xml格式。 |
