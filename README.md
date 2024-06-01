@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-05-31:** 绿意盎然的宜人之地  
-![](https://cn.bing.com/th?id=OHR.YorkshireDalesNP_ZH-CN0775378262_UHD.jpg&w=1000)[冈纳塞德，斯韦尔代尔，约克郡谷地国家公园，英格兰 (© Derek Croucher/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.YorkshireDalesNP_ZH-CN0775378262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-06-01:** 带你游花园  
+![](https://cn.bing.com/th?id=OHR.CancaoDoExilio_ZH-CN1012675104_UHD.jpg&w=1000)[帝王棕榈树，里约热内卢植物园，巴西 (© Marcia Silva de Mendonca/Getty Images)](https://cn.bing.com/th?id=OHR.CancaoDoExilio_ZH-CN1012675104_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
