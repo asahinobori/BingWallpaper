@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-06-02:** 黑夜中的一盏明灯  
-![](https://cn.bing.com/th?id=OHR.MenRuz_ZH-CN2021725181_UHD.jpg&w=1000)[普卢马纳克的灯塔，阿摩尔滨海省，法国 (© Christian Handl/Getty Images)](https://cn.bing.com/th?id=OHR.MenRuz_ZH-CN2021725181_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-06-03:** 一起骑车去兜风吧  
+![](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_ZH-CN3047958346_UHD.jpg&w=1000)[哥本哈根的自行车，丹麦 (© Alphotographic/Getty Images)](https://cn.bing.com/th?id=OHR.CopenhagenBicycles_ZH-CN3047958346_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
