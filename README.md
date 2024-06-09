@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-06-08:** 河流的交汇  
-![](https://cn.bing.com/th?id=OHR.KillikRiverAlaska_ZH-CN5736211272_UHD.jpg&w=1000)[复活节溪和基利克河的交汇处，北极之门国家公园，阿拉斯加州，美国 (© Patrick J. Endres/Getty Images)](https://cn.bing.com/th?id=OHR.KillikRiverAlaska_ZH-CN5736211272_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-06-09:** 令人窒息的寂静  
+![](https://cn.bing.com/th?id=OHR.BardenasBiosphere_ZH-CN6198033700_UHD.jpg&w=1000)[巴尔德纳斯雷亚尔斯自然公园，巴德纳斯，纳瓦拉，西班牙 (© Aliaume Chapelle/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BardenasBiosphere_ZH-CN6198033700_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
