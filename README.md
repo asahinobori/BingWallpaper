@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-06-14:** 孤独，但不寂寞  
-![](https://cn.bing.com/th?id=OHR.PeggysCove_ZH-CN4221190894_UHD.jpg&w=1000)[佩姬湾灯塔，新斯科舍省，加拿大 (© Pugalenthi/Getty Images)](https://cn.bing.com/th?id=OHR.PeggysCove_ZH-CN4221190894_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-06-15:** 有志者事竟成  
+![](https://cn.bing.com/th?id=OHR.NazareWave_ZH-CN4575182192_UHD.jpg&w=1000)[在纳扎雷冲浪的冲浪者，葡萄牙 (© Rui Caria/Getty Images)](https://cn.bing.com/th?id=OHR.NazareWave_ZH-CN4575182192_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
