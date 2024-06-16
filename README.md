@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-06-15:** 有志者事竟成  
-![](https://cn.bing.com/th?id=OHR.NazareWave_ZH-CN4575182192_UHD.jpg&w=1000)[在纳扎雷冲浪的冲浪者，葡萄牙 (© Rui Caria/Getty Images)](https://cn.bing.com/th?id=OHR.NazareWave_ZH-CN4575182192_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-06-16:** 这位父亲棋高一着  
+![](https://cn.bing.com/th?id=OHR.RedFoxDad_ZH-CN4894022141_UHD.jpg&w=1000)[赤狐父子，华盛顿，美国 (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedFoxDad_ZH-CN4894022141_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
