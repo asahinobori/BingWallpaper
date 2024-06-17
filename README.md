@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-06-16:** 这位父亲棋高一着  
-![](https://cn.bing.com/th?id=OHR.RedFoxDad_ZH-CN4894022141_UHD.jpg&w=1000)[赤狐父子，华盛顿，美国 (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedFoxDad_ZH-CN4894022141_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-06-17:** 传播花粉  
+![](https://cn.bing.com/th?id=OHR.HummingThistle_ZH-CN5057539905_UHD.jpg&w=1000)[绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加 (© adrian hepworth/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.HummingThistle_ZH-CN5057539905_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
