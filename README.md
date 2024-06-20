@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-06-19:** 一座历史古迹  
-![](https://cn.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_UHD.jpg&w=1000)[库克斯港的水塔，德国 (© Andreas Vogel/Alamy)](https://cn.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-06-20:** 夏天的脚步近了  
+![](https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_UHD.jpg&w=1000)[科基诺，古代巨石观测站，北马其顿 (© stoimilov/Shutterstock)](https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
