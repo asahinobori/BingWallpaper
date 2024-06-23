@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-06-22:** 迷失在迷雾之中  
-![](https://cn.bing.com/th?id=OHR.BrazilRainforest_ZH-CN6432366530_UHD.jpg&w=1000)[亚马逊雨林，巴西 (© Claus Meyer/plainpicture)](https://cn.bing.com/th?id=OHR.BrazilRainforest_ZH-CN6432366530_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-06-23:** 漆黑的夜晚，城市的灯光  
+![](https://cn.bing.com/th?id=OHR.DhakaBangladesh_ZH-CN6777866162_UHD.jpg&w=1000)[达卡环形交叉路口的鸟瞰图，孟加拉国 (© Azim Khan Ronnie/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.DhakaBangladesh_ZH-CN6777866162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
