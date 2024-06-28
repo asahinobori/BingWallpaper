@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-06-27:** “甜蜜的”穹顶  
-![](https://cn.bing.com/th?id=OHR.FlorenceDuomo_ZH-CN7379412586_UHD.jpg&w=1000)[黄昏时分的圣母百花大教堂，佛罗伦萨，意大利 (© Elena Pueyo/Getty Images)](https://cn.bing.com/th?id=OHR.FlorenceDuomo_ZH-CN7379412586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-06-28:** 最具加勒比海风情的海岛  
+![](https://cn.bing.com/th?id=OHR.ChauseyIslands_ZH-CN4241103934_UHD.jpg&w=1000)[诺曼底海岸的绍塞群岛，法国 (© Tuul & Bruno Morandi/Getty Images)](https://cn.bing.com/th?id=OHR.ChauseyIslands_ZH-CN4241103934_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
