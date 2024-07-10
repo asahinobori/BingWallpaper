@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-07-09:** 千仞高壁  
-![](https://cn.bing.com/th?id=OHR.TalampayaNP_ZH-CN7905859626_UHD.jpg&w=1000)[阿根廷拉里奥哈省塔兰帕亚国家公园 (© Gonzalo Azumendi/Getty Images)](https://cn.bing.com/th?id=OHR.TalampayaNP_ZH-CN7905859626_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-07-10:** 感恩的巨嘴鸟  
+![](https://cn.bing.com/th?id=OHR.CollaredAracari_ZH-CN8787234462_UHD.jpg&w=1000)[领簇舌巨嘴鸟，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.CollaredAracari_ZH-CN8787234462_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
