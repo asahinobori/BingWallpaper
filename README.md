@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-07-10:** 感恩的巨嘴鸟  
-![](https://cn.bing.com/th?id=OHR.CollaredAracari_ZH-CN8787234462_UHD.jpg&w=1000)[领簇舌巨嘴鸟，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.CollaredAracari_ZH-CN8787234462_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-07-11:** 你是81亿人口中的一员  
+![](https://cn.bing.com/th?id=OHR.GangiSicily_ZH-CN9086944081_UHD.jpg&w=1000)[甘吉，西西里岛，意大利 (© Andrea Caruso/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.GangiSicily_ZH-CN9086944081_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
