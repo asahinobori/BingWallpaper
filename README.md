@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-07-14:** 鲨鱼保护日  
-![](https://cn.bing.com/th?id=OHR.SilkyShark_ZH-CN9523915460_UHD.jpg&w=1000)[女王花园群岛的镰形真鲨，古巴 (© Christian Vizl/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SilkyShark_ZH-CN9523915460_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-07-15:** 宁静惬意的海滨风光  
+![](https://cn.bing.com/th?id=OHR.TateishiPark_ZH-CN9903501398_UHD.jpg&w=1000)[立石公园，神奈川县，日本 (© blew_s/Shutterstock)](https://cn.bing.com/th?id=OHR.TateishiPark_ZH-CN9903501398_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
