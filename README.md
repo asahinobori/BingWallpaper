@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-07-21:** 香料岛之旅  
-![](https://cn.bing.com/th?id=OHR.ZanzibarBoats_ZH-CN2915388379_UHD.jpg&w=1000)[肯杜瓦村的木制渔船，桑给巴尔，坦桑尼亚 (© Lubos Paukeje/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.ZanzibarBoats_ZH-CN2915388379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-07-22:** 和我一起避暑吧！  
+![](https://cn.bing.com/th?id=OHR.TheGreatHeat2024_ZH-CN6033129823_UHD.jpg&w=1000)[树上的中国小熊猫, 成都, 四川省, 中国 (© Jackyenjoyphotography/Getty Images)](https://cn.bing.com/th?id=OHR.TheGreatHeat2024_ZH-CN6033129823_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
