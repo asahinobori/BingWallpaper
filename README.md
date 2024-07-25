@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-07-24:** 可爱的羊咩咩一家  
-![](https://cn.bing.com/th?id=OHR.SheepCousins_ZH-CN4262132476_UHD.jpg&w=1000)[北约克郡的黑面羊羊群，英格兰 (© R A Kearton/Getty Images)](https://cn.bing.com/th?id=OHR.SheepCousins_ZH-CN4262132476_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-07-25:** 深入其中  
+![](https://cn.bing.com/th?id=OHR.SmokyMountainTrail_ZH-CN4691667074_UHD.jpg&w=1000)[大烟山国家公园的森林小道，田纳西州，美国 (© putmanphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SmokyMountainTrail_ZH-CN4691667074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
