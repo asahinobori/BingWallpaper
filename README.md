@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-07-26:** 比赛开始  
-![](https://cn.bing.com/th?id=OHR.PontNeuf_ZH-CN3158359446_UHD.jpg&w=1000)[塞纳河上的新桥，巴黎，法国 (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.PontNeuf_ZH-CN3158359446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-07-27:** 完美的葡萄酒  
+![](https://cn.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_UHD.jpg&w=1000)[摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国 (© Jorg Greuel/Getty Images)](https://cn.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
