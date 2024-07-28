@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-07-27:** 完美的葡萄酒  
-![](https://cn.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_UHD.jpg&w=1000)[摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国 (© Jorg Greuel/Getty Images)](https://cn.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-07-28:** 色彩斑斓的海岸线  
+![](https://cn.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_UHD.jpg&w=1000)[斯科讷省海滩上的浴场小屋，瑞典 (© Martin Wahlborg/Getty Images)](https://cn.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
