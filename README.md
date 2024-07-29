@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-07-28:** 色彩斑斓的海岸线  
-![](https://cn.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_UHD.jpg&w=1000)[斯科讷省海滩上的浴场小屋，瑞典 (© Martin Wahlborg/Getty Images)](https://cn.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-07-29:** 咆哮与探索  
+![](https://cn.bing.com/th?id=OHR.CorbettTigers_ZH-CN6927569938_UHD.jpg&w=1000)[科贝国家公园的老虎兄弟，北阿坎德邦，印度 (© Sourabh Bharti/Getty Images)](https://cn.bing.com/th?id=OHR.CorbettTigers_ZH-CN6927569938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
