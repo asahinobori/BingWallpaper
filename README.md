@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-07-30:** 中世纪的曼哈顿  
-![](https://cn.bing.com/th?id=OHR.GimignanoTuscany_ZH-CN8059318824_UHD.jpg&w=1000)[圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚 (© MNStudio/Shutterstock)](https://cn.bing.com/th?id=OHR.GimignanoTuscany_ZH-CN8059318824_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-07-31:** 这里有“胡图”吗？  
+![](https://cn.bing.com/th?id=OHR.HoodoosBryce_ZH-CN8398575172_UHD.jpg&w=1000)[石林，日落点，布莱斯峡谷国家公园，犹他州，美国 (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.HoodoosBryce_ZH-CN8398575172_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
