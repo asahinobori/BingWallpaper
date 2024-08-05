@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-08-04:** 我是你的朋友  
-![](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_ZH-CN9652434873_UHD.jpg&w=1000)[黑斑羚和红嘴牛椋鸟，南非 (© Matrishva Vyas/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_ZH-CN9652434873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-08-05:** 一片紫色的海洋  
+![](https://cn.bing.com/th?id=OHR.HertfordshireLavender_ZH-CN9771886404_UHD.jpg&w=1000)[薰衣草田，赫特福德郡 ，英格兰，英国 (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.HertfordshireLavender_ZH-CN9771886404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
