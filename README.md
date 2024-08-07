@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-08-06:** 迎合所有人口味的景点  
-![](https://cn.bing.com/th?id=OHR.MolokiniHawaii_ZH-CN0375050872_UHD.jpg&w=1000)[莫洛基尼，毛伊岛，夏威夷，美国 (© Douglas Peebles/eStock Photo)](https://cn.bing.com/th?id=OHR.MolokiniHawaii_ZH-CN0375050872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-08-07:** 不止是航海需要它  
+![](https://cn.bing.com/th?id=OHR.MichiganLighthouse_ZH-CN0581377136_UHD.jpg&w=1000)[圣约瑟夫北码头内灯和外灯，密歇根州，美国 (© Kenneth Keifer/Getty Images)](https://cn.bing.com/th?id=OHR.MichiganLighthouse_ZH-CN0581377136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
