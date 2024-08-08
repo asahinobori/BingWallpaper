@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-08-07:** 不止是航海需要它  
-![](https://cn.bing.com/th?id=OHR.MichiganLighthouse_ZH-CN0581377136_UHD.jpg&w=1000)[圣约瑟夫北码头内灯和外灯，密歇根州，美国 (© Kenneth Keifer/Getty Images)](https://cn.bing.com/th?id=OHR.MichiganLighthouse_ZH-CN0581377136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-08-08:** 小猫头鹰瞪了你一眼  
+![](https://cn.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_UHD.jpg&w=1000)[横斑腹小鸮，曼谷，泰国 (© Tfilm/Getty Images)](https://cn.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
