@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-08-08:** 小猫头鹰瞪了你一眼  
-![](https://cn.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_UHD.jpg&w=1000)[横斑腹小鸮，曼谷，泰国 (© Tfilm/Getty Images)](https://cn.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-08-09:** 弘扬土著文化  
+![](https://cn.bing.com/th?id=OHR.IncaRuinPeru_ZH-CN5068602301_UHD.jpg&w=1000)[库斯科附近的萨克塞华曼印加遗址，秘鲁 (© SL_Photography/Getty Images)](https://cn.bing.com/th?id=OHR.IncaRuinPeru_ZH-CN5068602301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
