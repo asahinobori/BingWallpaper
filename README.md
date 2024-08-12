@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-08-11:** 人迹罕至的路  
-![](https://cn.bing.com/th?id=OHR.TofinoVancouver_ZH-CN6920493172_UHD.jpg&w=1000)[通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省 (© EB Adventure Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.TofinoVancouver_ZH-CN6920493172_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-08-12:** 你的声音嘹亮而清晰  
+![](https://cn.bing.com/th?id=OHR.ElephantsAmboseli_ZH-CN7596989061_UHD.jpg&w=1000)[非洲象，肯尼亚安博塞利国家公园 (© Ruzdi Ekenheim/Getty Images)](https://cn.bing.com/th?id=OHR.ElephantsAmboseli_ZH-CN7596989061_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
