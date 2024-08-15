@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-08-14:** 今天感觉很精神  
-![](https://cn.bing.com/th?id=OHR.WatarrkaLizard_ZH-CN7974623468_UHD.jpg&w=1000)[澳洲魔蜥，瓦塔卡国家公园，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.WatarrkaLizard_ZH-CN7974623468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-08-15:** “洞”之新世界  
+![](https://cn.bing.com/th?id=OHR.HangCave_ZH-CN9217507365_UHD.jpg&w=1000)[韩松洞，风牙者榜国家公园，越南 (© Geng Xu/Getty Images)](https://cn.bing.com/th?id=OHR.HangCave_ZH-CN9217507365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
