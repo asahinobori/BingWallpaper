@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-08-15:** “洞”之新世界  
-![](https://cn.bing.com/th?id=OHR.HangCave_ZH-CN9217507365_UHD.jpg&w=1000)[韩松洞，风牙者榜国家公园，越南 (© Geng Xu/Getty Images)](https://cn.bing.com/th?id=OHR.HangCave_ZH-CN9217507365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-08-16:** 系好安全带！  
+![](https://cn.bing.com/th?id=OHR.JapanRollerCoaster_ZH-CN7954058301_UHD.jpg&w=1000)[长岛温泉乐园的过山车，三重县，日本 (© Japanese amateur photographer/Getty Images)](https://cn.bing.com/th?id=OHR.JapanRollerCoaster_ZH-CN7954058301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
