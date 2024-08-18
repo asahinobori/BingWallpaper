@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-08-17:** 照亮前行之路  
-![](https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_UHD.jpg&w=1000)[阿尔凡齐纳灯塔，阿尔加维，葡萄牙 (© Andreas Kunz/Getty Images)](https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-08-18:** 一个无与伦比的码头  
+![](https://cn.bing.com/th?id=OHR.HuntingtonBeach_ZH-CN0368691951_UHD.jpg&w=1000)[日落时的亨廷顿海滩码头，加利福尼亚州，美国 (© Stan Moniz Photography/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.HuntingtonBeach_ZH-CN0368691951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
