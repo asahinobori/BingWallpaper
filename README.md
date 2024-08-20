@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-08-19:** 铿锵有力的打击乐  
-![](https://cn.bing.com/th?id=OHR.RegataSanGines_ZH-CN0807566522_UHD.jpg&w=1000)[Bufadero de la Garita，大加那利岛，西班牙 (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.RegataSanGines_ZH-CN0807566522_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-08-20:** 鹿和羚羊嬉戏的地方  
+![](https://cn.bing.com/th?id=OHR.TetonSunrise_ZH-CN1118823848_UHD.jpg&w=1000)[大提顿国家公园日出,怀俄明州,美国 (© Kurt Budliger/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.TetonSunrise_ZH-CN1118823848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
