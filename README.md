@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-08-28:** 比赛开始！  
-![](https://cn.bing.com/th?id=OHR.ParalympicsParis_ZH-CN9773135851_UHD.jpg&w=1000)[蒙马特和圣心大教堂，巴黎，法国 (© Tuul & Bruno Morandi/Getty Images)](https://cn.bing.com/th?id=OHR.ParalympicsParis_ZH-CN9773135851_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-08-29:** 加泰罗尼亚式的悬念  
+![](https://cn.bing.com/th?id=OHR.CastellfollitSpain_ZH-CN2990517626_UHD.jpg&w=1000)[富利特堡-德拉罗卡，加泰罗尼亚，西班牙 (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.CastellfollitSpain_ZH-CN2990517626_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
