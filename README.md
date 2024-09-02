@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-09-01:** 小船轻轻划过泰晤士河  
-![](https://cn.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg&w=1000)[泰晤士河，伦敦，英国 (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-09-02:** 红绿金刚鹦鹉之家  
+![](https://cn.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg&w=1000)[红绿金刚鹦鹉，南马托格罗索州，巴西 (© Ellen Goff/Danita Delimont)](https://cn.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
