@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-09-06:** 你可曾见过此等景色  
-![](https://cn.bing.com/th?id=OHR.GlenariffPark_ZH-CN4667558707_UHD.jpg&w=1000)[古老山毛榉树，格莱纳里夫森林公园，安特里姆郡，北爱尔兰 (© Dawid K Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.GlenariffPark_ZH-CN4667558707_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-09-07:** 嗡嗡作响  
+![](https://cn.bing.com/th?id=OHR.SantaCruzHummer_ZH-CN5448262039_UHD.jpg&w=1000)[朱红蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© yhelfman/Getty Images)](https://cn.bing.com/th?id=OHR.SantaCruzHummer_ZH-CN5448262039_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
