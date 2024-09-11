@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-09-10:** 从天际线到水面  
-![](https://cn.bing.com/th?id=OHR.BridgeLisbon_ZH-CN6877671644_UHD.jpg&w=1000)[瓦斯科·达·伽马大桥，里斯本，葡萄牙 (© Achim Thomae/Getty Images)](https://cn.bing.com/th?id=OHR.BridgeLisbon_ZH-CN6877671644_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-09-11:** 石头编织的童话  
+![](https://cn.bing.com/th?id=OHR.EltzCastle_ZH-CN7586749377_UHD.jpg&w=1000)[埃尔茨城堡，德国 (© Allard Schager/Alamy)](https://cn.bing.com/th?id=OHR.EltzCastle_ZH-CN7586749377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
