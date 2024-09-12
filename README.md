@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-09-11:** 石头编织的童话  
-![](https://cn.bing.com/th?id=OHR.EltzCastle_ZH-CN7586749377_UHD.jpg&w=1000)[埃尔茨城堡，德国 (© Allard Schager/Alamy)](https://cn.bing.com/th?id=OHR.EltzCastle_ZH-CN7586749377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-09-12:** 度过美好的一天  
+![](https://cn.bing.com/th?id=OHR.DolphinReunion_ZH-CN7681290861_UHD.jpg&w=1000)[留尼汪岛附近的海豚群，印度洋，法国海外省 (© Joost van Uffelen/Shutterstock)](https://cn.bing.com/th?id=OHR.DolphinReunion_ZH-CN7681290861_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
