@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-09-22:** 陷入沉思  
-![](https://cn.bing.com/th?id=OHR.AutumnCumbria_ZH-CN0565958390_UHD.jpg&w=1000)[巴特米尔湖，湖区国家公园，英格兰，英国 (© Alan Novelli/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.AutumnCumbria_ZH-CN0565958390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-09-23:** 令人惊叹的海獭  
+![](https://cn.bing.com/th?id=OHR.IcebergOtter_ZH-CN0972467238_UHD.jpg&w=1000)[海獭，威廉王子湾,阿拉斯加州,美国 (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.IcebergOtter_ZH-CN0972467238_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
