@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-09-24:** 你会相信这种观点吗？  
-![](https://cn.bing.com/th?id=OHR.SkaftafellWaterfall_ZH-CN1766863001_UHD.jpg&w=1000)[斯卡夫塔山的瀑布，瓦特纳冰川国家公园，冰岛 (© Nopasorn Kowathanakul/Getty Images)](https://cn.bing.com/th?id=OHR.SkaftafellWaterfall_ZH-CN1766863001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-09-25:** 古代巨人的王国  
+![](https://cn.bing.com/th?id=OHR.GiantSequoias_ZH-CN2666897238_UHD.jpg&w=1000)[巨型红杉，红杉国家公园，加利福尼亚州，美国 (© Galyna Andrushko/Shutterstock)](https://cn.bing.com/th?id=OHR.GiantSequoias_ZH-CN2666897238_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
