@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-09-25:** 古代巨人的王国  
-![](https://cn.bing.com/th?id=OHR.GiantSequoias_ZH-CN2666897238_UHD.jpg&w=1000)[巨型红杉，红杉国家公园，加利福尼亚州，美国 (© Galyna Andrushko/Shutterstock)](https://cn.bing.com/th?id=OHR.GiantSequoias_ZH-CN2666897238_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-09-26:** 呼叫所有巨嘴鸟的粉丝  
+![](https://cn.bing.com/th?id=OHR.LittleToucanet_ZH-CN2910262009_UHD.jpg&w=1000)[蓝斑巨嘴鸟，洛斯戈查尔斯国家公园，哥斯达黎加 (© Oscar Dominguez/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LittleToucanet_ZH-CN2910262009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
