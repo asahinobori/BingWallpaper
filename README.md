@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-09-26:** 呼叫所有巨嘴鸟的粉丝  
-![](https://cn.bing.com/th?id=OHR.LittleToucanet_ZH-CN2910262009_UHD.jpg&w=1000)[蓝斑巨嘴鸟，洛斯戈查尔斯国家公园，哥斯达黎加 (© Oscar Dominguez/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LittleToucanet_ZH-CN2910262009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-09-27:** 在漂浮的城市之上  
+![](https://cn.bing.com/th?id=OHR.VeniceAerial_ZH-CN4070720525_UHD.jpg&w=1000)[大运河和安康圣母教堂的鸟瞰图，威尼斯，意大利 (© Bachir Moukarzel/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.VeniceAerial_ZH-CN4070720525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
