@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-09-28:** 海湾群岛的光芒  
-![](https://cn.bing.com/th?id=OHR.FloridaSeashore_ZH-CN4671838639_UHD.jpg&w=1000)[日出时的海滩，海湾岛国家海岸，佛罗里达，美国 (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.FloridaSeashore_ZH-CN4671838639_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-09-29:** 连接康涅狄格州  
+![](https://cn.bing.com/th?id=OHR.ConnecticutBridge_ZH-CN4957862425_UHD.jpg&w=1000)[横跨胡萨托尼克河的西康沃尔廊桥，康涅狄格州，美国 (© pabradyphoto/Getty Images)](https://cn.bing.com/th?id=OHR.ConnecticutBridge_ZH-CN4957862425_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
