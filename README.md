@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-09-30:** 随浮冰漂流  
-![](https://cn.bing.com/th?id=OHR.WalrusNorway_ZH-CN5657804031_UHD.jpg&w=1000)[斯匹次卑尔根岛北部的海象群，斯瓦尔巴群岛，挪威 (© AWL Images/DanitaDelimont)](https://cn.bing.com/th?id=OHR.WalrusNorway_ZH-CN5657804031_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-10-01:** 绝美的秋日风景  
+![](https://cn.bing.com/th?id=OHR.NationalDay2024_ZH-CN7026189162_UHD.jpg&w=1000)[禾木村的风景，新疆，中国 (© snvv18870020330/Shutterstock)](https://cn.bing.com/th?id=OHR.NationalDay2024_ZH-CN7026189162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
