@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-10-06:** 一抹金色  
-![](https://cn.bing.com/th?id=OHR.CoyoteGulch_ZH-CN2869463336_UHD.jpg&w=1000)[郊狼峡谷拱门中的白杨树，格兰峡谷休闲区，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CoyoteGulch_ZH-CN2869463336_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-10-07:** 梦想成真的地方  
+![](https://cn.bing.com/th?id=OHR.BoraPapeete_ZH-CN1991283465_UHD.jpg&w=1000)[法属波利尼西亚波拉波拉岛的鸟瞰图 (© GLF Media/Shutterstock)](https://cn.bing.com/th?id=OHR.BoraPapeete_ZH-CN1991283465_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
