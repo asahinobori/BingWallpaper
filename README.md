@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-10-08:** 托斯卡纳的石头小镇  
-![](https://cn.bing.com/th?id=OHR.SoranoItaly_ZH-CN1190725201_UHD.jpg&w=1000)[索拉诺，托斯卡纳，意大利 (© Luigi Vaccarella/eStock Photo)](https://cn.bing.com/th?id=OHR.SoranoItaly_ZH-CN1190725201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-10-09:** 色彩斑斓的秋天  
+![](https://cn.bing.com/th?id=OHR.AspensColorado_ZH-CN0132780533_UHD.jpg&w=1000)[马布尔附近的白杨树，科罗拉多州，美国 (© Jason Hatfield/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AspensColorado_ZH-CN0132780533_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
