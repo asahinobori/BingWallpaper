@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-10-12:** 飞越各大洲  
-![](https://cn.bing.com/th?id=OHR.QuebecDuck_ZH-CN0588954873_UHD.jpg&w=1000)[林鸳鸯，魁北克省，加拿大 (© Maxime Riendeau/Getty Images)](https://cn.bing.com/th?id=OHR.QuebecDuck_ZH-CN0588954873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-10-13:** 辉煌的塞维利亚  
+![](https://cn.bing.com/th?id=OHR.AlcazarSeville_ZH-CN5581795099_UHD.jpg&w=1000)[塞维利亚王宫少女庭院，西班牙 (© Danny Lehman/Getty Images)](https://cn.bing.com/th?id=OHR.AlcazarSeville_ZH-CN5581795099_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
