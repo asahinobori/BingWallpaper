@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-10-17:** 随风摆动，进入秋天  
-![](https://cn.bing.com/th?id=OHR.KochiaJapan_ZH-CN9896157139_UHD.jpg&w=1000)[地肤草，茨城县，日本 (© DigiPub/Getty Images)](https://cn.bing.com/th?id=OHR.KochiaJapan_ZH-CN9896157139_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-10-18:** 邂逅秋日的林荫道  
+![](https://cn.bing.com/th?id=OHR.CentralParkAutumn_ZH-CN2757358246_UHD.jpg&w=1000)[曼哈顿中央公园的秋天，纽约，美国 (© mapman/Shutterstock)](https://cn.bing.com/th?id=OHR.CentralParkAutumn_ZH-CN2757358246_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
