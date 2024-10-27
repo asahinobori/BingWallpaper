@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-10-26:** 海边的神秘树林  
-![](https://cn.bing.com/th?id=OHR.GhostForest_ZH-CN9648216213_UHD.jpg&w=1000)[幽灵森林，宁哈根，梅克伦堡-西波美拉尼亚，德国 (© mauritius images GmbH/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.GhostForest_ZH-CN9648216213_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-10-27:** 寒风中的温情  
+![](https://cn.bing.com/th?id=OHR.PolarBearHug_ZH-CN0696077546_UHD.jpg&w=1000)[北极熊与幼崽，丘吉尔，曼尼托巴，加拿大 (© Design Pics/plainpicture)](https://cn.bing.com/th?id=OHR.PolarBearHug_ZH-CN0696077546_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
