@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-10-29:** 猫头鹰的叫声在萦绕  
-![](https://cn.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_UHD.jpg&w=1000)[大雕鸮 (© Mark Newman/Getty Images)](https://cn.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-10-30:** 令人毛骨悚然的历史  
+![](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg&w=1000)[从苏格兰教堂墓地眺望爱丁堡城堡，英国 (© Chris Dorney/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
