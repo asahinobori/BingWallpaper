@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-11-02:** 从濒临灭绝到成为国家的象征  
-![](https://cn.bing.com/th?id=OHR.BisonYellowstone_ZH-CN7320887379_UHD.jpg&w=1000)[黄石国家公园的美洲野牛，怀俄明州，美国 (© Ian Shive/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BisonYellowstone_ZH-CN7320887379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-11-03:** 自然与可持续发展的结合  
+![](https://cn.bing.com/th?id=OHR.YucatanBiosphere_ZH-CN7442392453_UHD.jpg&w=1000)[巢中的加勒比火烈鸟蛋，里奥拉加托斯自然保护区，尤卡坦州，墨西哥 (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.YucatanBiosphere_ZH-CN7442392453_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
