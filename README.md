@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-11-04:** 胜过千言万语  
-![](https://cn.bing.com/th?id=OHR.CumbriaAutumn_ZH-CN7697251216_UHD.jpg&w=1000)[坎布里亚湖区，格拉斯米尔，英格兰 (© Thomas Molyneux/Getty Images)](https://cn.bing.com/th?id=OHR.CumbriaAutumn_ZH-CN7697251216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-11-05:** 异世界之美  
+![](https://cn.bing.com/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg&w=1000)[马拉赫塞斯国家公园，马拉尼昂州,巴西 (© thanosquest/Shutterstock)](https://cn.bing.com/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
