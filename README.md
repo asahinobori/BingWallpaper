@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-11-07:** 初冬之美  
-![](https://cn.bing.com/th?id=OHR.LiDong2024_ZH-CN9944723194_UHD.jpg&w=1000)[金色的松树，坝上草原，中国 (© MelindaChan/Getty Images)](https://cn.bing.com/th?id=OHR.LiDong2024_ZH-CN9944723194_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-11-08:** 来自冰与火之国  
+![](https://cn.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg&w=1000)[冰岛冰川河流鸟瞰图 (© rybarmarekk/Shutterstock)](https://cn.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
