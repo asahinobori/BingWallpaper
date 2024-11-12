@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-11-11:** 旷野里的第一片雪花  
-![](https://cn.bing.com/th?id=OHR.Banff24_ZH-CN1156176817_UHD.jpg&w=1000)[班夫国家公园的日落，阿尔伯塔省，加拿大 (© fywPhoto 云卷云舒/Getty Images)](https://cn.bing.com/th?id=OHR.Banff24_ZH-CN1156176817_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-11-12:** 拱门之下  
+![](https://cn.bing.com/th?id=OHR.CoveArch_ZH-CN1281140578_UHD.jpg&w=1000)[透过海湾拱门看到双拱门，拱门国家公园，犹他州，美国 (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.CoveArch_ZH-CN1281140578_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
