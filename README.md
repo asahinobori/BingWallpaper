@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-11-14:** 悬崖边的故事  
-![](https://cn.bing.com/th?id=OHR.ManarolaItaly_ZH-CN2837915120_UHD.jpg&w=1000)[马纳罗拉，五渔村国家公园，利古里亚，意大利 (© John_Silver/Shutterstock)](https://cn.bing.com/th?id=OHR.ManarolaItaly_ZH-CN2837915120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-11-15:** 愿望随灯起飞  
+![](https://cn.bing.com/th?id=OHR.YiPengLanterns_ZH-CN5613043353_UHD.jpg&w=1000)[义蓬灯节 ，清迈，泰国 (© tampatra/Getty Images)](https://cn.bing.com/th?id=OHR.YiPengLanterns_ZH-CN5613043353_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
