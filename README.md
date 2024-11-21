@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-11-20:** 加龙河上的历史通道  
-![](https://cn.bing.com/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg&w=1000)[皮埃尔桥，波尔多，法国 (© SergiyN/Getty Images)](https://cn.bing.com/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-11-21:** 在肩头远眺  
+![](https://cn.bing.com/th?id=OHR.LionCubs_ZH-CN8538754038_UHD.jpg&w=1000)[日出时的两只小狮子，南非 (© Ruan Springorum/Getty Images)](https://cn.bing.com/th?id=OHR.LionCubs_ZH-CN8538754038_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
