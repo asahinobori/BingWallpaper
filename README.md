@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-11-23:** 大自然的密码  
-![](https://cn.bing.com/th?id=OHR.FibonacciAloe_ZH-CN8974137481_UHD.jpg&w=1000)[多叶芦荟，袋鼠岛，澳大利亚 (© Michael Melford/Alamy)](https://cn.bing.com/th?id=OHR.FibonacciAloe_ZH-CN8974137481_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-11-24:** 潮汐与暮色  
+![](https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg&w=1000)[州立公园，索诺玛海岸，美国加利福尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
