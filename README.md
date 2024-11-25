@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-11-24:** 潮汐与暮色  
-![](https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg&w=1000)[州立公园，索诺玛海岸，美国加利福尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-11-25:** 野生动物的生活  
+![](https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg&w=1000)[马赛长颈鹿，安波塞利国家公园，肯尼亚 (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
