@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-11-26:** 有数百年历史的橄榄树  
-![](https://cn.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg&w=1000)[橄榄树林，伊特里亚山谷，普利亚，意大利 (© Massimo Santi/Shutterstock)](https://cn.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-11-27:** 巨人的安息之地  
+![](https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg&w=1000)[秋天的巨人之墓，布永市，比利时 (© David Briard/Getty)](https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
