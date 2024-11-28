@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-11-27:** 巨人的安息之地  
-![](https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg&w=1000)[秋天的巨人之墓，布永市，比利时 (© David Briard/Getty)](https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-11-28:** 山峰从云层中探出头来  
+![](https://cn.bing.com/th?id=OHR.AssiniboineTS_ZH-CN9936042562_UHD.jpg&w=1000)[日落时分风暴渐渐消散，阿西尼博因山省立公园，加拿大 (© Jeff Lewis/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AssiniboineTS_ZH-CN9936042562_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
