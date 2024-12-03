@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-12-02:** 狂野的眼神  
-![](https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg&w=1000)[雌性驼鹿，德纳里国家公园，阿拉斯加州，美国 (© Cavan Images/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-12-03:** 柱式遗产  
+![](https://cn.bing.com/th?id=OHR.JaipurFort_ZH-CN3891828158_UHD.jpg&w=1000)[Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度 (© Yury Taranik/Shutterstock)](https://cn.bing.com/th?id=OHR.JaipurFort_ZH-CN3891828158_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
