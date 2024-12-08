@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-12-07:** 自然奇观的蓝色魅力  
-![](https://cn.bing.com/th?id=OHR.ArraialdoCabo_ZH-CN6202620711_UHD.jpg&w=1000)[里约热内卢州的阿拉亚尔多卡博，巴西 (© Derson Santana/Shutterstock)](https://cn.bing.com/th?id=OHR.ArraialdoCabo_ZH-CN6202620711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-12-08:** 巴黎圣母院再度回归  
+![](https://cn.bing.com/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_UHD.jpg&w=1000)[巴黎圣母院，巴黎，法国 (© Julien Fromentin/Getty Images)](https://cn.bing.com/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
