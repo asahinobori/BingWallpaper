@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-12-10:** 世界的尽头？不完全是  
-![](https://cn.bing.com/th?id=OHR.CornwallSnow_ZH-CN8407245245_UHD.jpg&w=1000)[被雪覆盖的康沃尔天涯海角小径，康沃尔郡兰德恩德，英格兰 (© Josef FitzGerald-Patrick/Getty Images)](https://cn.bing.com/th?id=OHR.CornwallSnow_ZH-CN8407245245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-12-11:** 山峰的“胜利三重奏”  
+![](https://cn.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg&w=1000)[拉瓦雷多三峰山,意大利 (© Daniel Maran/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
