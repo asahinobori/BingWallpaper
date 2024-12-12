@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-12-11:** 山峰的“胜利三重奏”  
-![](https://cn.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg&w=1000)[拉瓦雷多三峰山,意大利 (© Daniel Maran/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-12-12:** 为节日做好准备  
+![](https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN7984548709_UHD.jpg&w=1000)[一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN7984548709_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
