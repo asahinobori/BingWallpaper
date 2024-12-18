@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-12-17:** 值得爱慕的海岸  
-![](https://cn.bing.com/th?id=OHR.ReinefjordenNorway_ZH-CN1198843758_UHD.jpg&w=1000)[传统红色渔民小屋，雷讷峡湾岸边，挪威 (© Pilat666/Getty Images)](https://cn.bing.com/th?id=OHR.ReinefjordenNorway_ZH-CN1198843758_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-12-18:** 壮观的象群队伍  
+![](https://cn.bing.com/th?id=OHR.MorningElephants_ZH-CN1418579765_UHD.jpg&w=1000)[印度吉姆科比特国家公园的大象，印度 (© ABHILASH VISWA PICASSO/Shutterstock)](https://cn.bing.com/th?id=OHR.MorningElephants_ZH-CN1418579765_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
