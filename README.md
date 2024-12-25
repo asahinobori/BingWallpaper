@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-12-24:** 祝你圣诞快乐！  
-![](https://cn.bing.com/th?id=OHR.SantaSnowglobe_ZH-CN2671421527_UHD.jpg&w=1000)[德国圣诞市场 (© Cyril Gosselin/Getty Images)](https://cn.bing.com/th?id=OHR.SantaSnowglobe_ZH-CN2671421527_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-12-25:** 传说中的风景  
+![](https://cn.bing.com/th?id=OHR.CovadongaWinter_ZH-CN2873340163_UHD.jpg&w=1000)[科瓦东加湖，阿斯图里亚斯，西班牙 (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.CovadongaWinter_ZH-CN2873340163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
