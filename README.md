@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-12-26:** 节日还在继续  
-![](https://cn.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg&w=1000)[莫斯霍尔港的圣诞灯饰，康沃尔，英格兰 (© ianwool/Getty Images)](https://cn.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2024-12-27:** 冰雪倒影和积雪覆盖的群峰  
+![](https://cn.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg&w=1000)[布莱德湖，斯洛文尼亚 (© Kesu01/Getty Images)](https://cn.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
