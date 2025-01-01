@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2024-12-31:** 新年快乐！  
-![](https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg&w=1000)[国会山上空的烟花，渥太华，加拿大 (© naibank/Getty Images)](https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-01-01:** 过一个冰雪元旦！  
+![](https://cn.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg&w=1000)[在北极玩耍的北极熊 (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
