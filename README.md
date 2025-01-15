@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-01-14:** 宁静之地  
-![](https://cn.bing.com/th?id=OHR.CadizSpain_ZH-CN0032172399_UHD.jpg&w=1000)[Village of Zahara de la Sierra, Cádiz province, Spain (© SEN LI/Getty Images)](https://cn.bing.com/th?id=OHR.CadizSpain_ZH-CN0032172399_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-01-15:** 魔鬼与自然的气息  
+![](https://cn.bing.com/th?id=OHR.PointeDiable_ZH-CN0610493136_UHD.jpg&w=1000)[Pointe du Diable，圣皮埃尔，留尼汪岛 (© MONTICO Lionel/Alamy)](https://cn.bing.com/th?id=OHR.PointeDiable_ZH-CN0610493136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
