@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-01-20:** 松鼠之趣  
-![](https://cn.bing.com/th?id=OHR.DutchSquirrel_ZH-CN3896893818_UHD.jpg&w=1000)[欧亚红松鼠与毒蘑菇 (© Edwin Giesbers/Minden Pictures)](https://cn.bing.com/th?id=OHR.DutchSquirrel_ZH-CN3896893818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-01-21:** 迷人的海湾风光  
+![](https://cn.bing.com/th?id=OHR.NapoliPizza_ZH-CN4698906448_UHD.jpg&w=1000)[俯瞰那不勒斯湾和维苏威火山，意大利 (© ezypix/Getty Images)](https://cn.bing.com/th?id=OHR.NapoliPizza_ZH-CN4698906448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
