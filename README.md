@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-01-21:** 迷人的海湾风光  
-![](https://cn.bing.com/th?id=OHR.NapoliPizza_ZH-CN4698906448_UHD.jpg&w=1000)[俯瞰那不勒斯湾和维苏威火山，意大利 (© ezypix/Getty Images)](https://cn.bing.com/th?id=OHR.NapoliPizza_ZH-CN4698906448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-01-22:** 在失落之城发现美  
+![](https://cn.bing.com/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg&w=1000)[代尔修道院，佩特拉，约旦 (© Punnawit Suwuttananun/Getty Images)](https://cn.bing.com/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
