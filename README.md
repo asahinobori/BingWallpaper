@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-01-25:** 波尔图的黄金时刻  
-![](https://cn.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_UHD.jpg&w=1000)[波尔图，葡萄牙 (© Starcevic/Getty Images)](https://cn.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-01-26:** 优雅地老去  
+![](https://cn.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg&w=1000)[比利时的欧洲山毛榉森林 (© Philippe Moes/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
