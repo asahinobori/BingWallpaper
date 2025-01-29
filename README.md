@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-01-28:** 祝您阖家欢乐，万事如意！  
-![](https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg&w=1000)[夜空中的烟花表演，长沙，湖南省，中国 (© Sino Images/Getty Images)](https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-01-29:** 春节快乐！  
+![](https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg&w=1000)[南京夫子庙的春节许愿牌，江苏省，中国 (© lazy dragon/Shutterstock)](https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
