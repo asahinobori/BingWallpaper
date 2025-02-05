@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-02-04:** 云端漫步  
-![](https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_UHD.jpg&w=1000)[金桥，巴拿山，岘港，越南 (© Hien Phung Thu/Shutterstock)](https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-02-05:** 对国家遗产的思考  
+![](https://cn.bing.com/th?id=OHR.ScottishSheep_ZH-CN3051181797_UHD.jpg&w=1000)[拱门群岛，瓦拉里基海滩，南岛，新西兰 (© Francesco Vaninetti/AWL/plainpicture)](https://cn.bing.com/th?id=OHR.ScottishSheep_ZH-CN3051181797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
