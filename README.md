@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-02-07:** 沉浸在蓝调时分  
-![](https://cn.bing.com/th?id=OHR.BlueNorway_ZH-CN7489077966_UHD.jpg&w=1000)[特隆赫姆的蓝色时刻，挪威 (© Jeanny Mueller/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNorway_ZH-CN7489077966_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-02-08:** 凝固的时光  
+![](https://cn.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg&w=1000)[梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚 (© photoaliona/Getty Images)](https://cn.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
