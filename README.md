@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-02-12:** 喜气洋洋的元宵节  
-![](https://cn.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_UHD.jpg&w=1000)[上海豫园的灯会，元宵节，上海市，中国 (© atiger/Shutterstock)](https://cn.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-02-13:** 大地之盐  
+![](https://cn.bing.com/th?id=OHR.LakeTyrrell_ZH-CN8860948292_UHD.jpg&w=1000)[泰瑞尔湖，维多利亚州，澳大利亚 (© Monica Bertolazzi/Getty Images)](https://cn.bing.com/th?id=OHR.LakeTyrrell_ZH-CN8860948292_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
