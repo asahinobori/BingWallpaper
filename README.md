@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-02-16:** 守护海洋巨兽  
-![](https://cn.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg&w=1000)[座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-02-17:** 冰雪边界  
+![](https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg&w=1000)[Coll d'Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock)](https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
