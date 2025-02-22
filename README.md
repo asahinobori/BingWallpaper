@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-02-21:** 静水流深的传说  
-![](https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg&w=1000)[希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-02-22:** 向辉煌迈进  
+![](https://cn.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&w=1000)[圣路易斯拱门, 密苏里州, 美国 (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
