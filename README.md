@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-02-22:** 向辉煌迈进  
-![](https://cn.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&w=1000)[圣路易斯拱门, 密苏里州, 美国 (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-02-23:** 清晨的美好精致  
+![](https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&w=1000)[日出时分的富士山, 河口湖, 日本 (© Twenty47studio/Getty Images)](https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
