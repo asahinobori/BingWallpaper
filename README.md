@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-02-24:** 墨迹与伪装  
-![](https://cn.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&w=1000)[斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚 (© Gary Bell/Minden Pictures)](https://cn.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-02-25:** 风蚀石们的问候  
+![](https://cn.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg&w=1000)[砂岩石柱，布莱斯峡谷国家公园，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
