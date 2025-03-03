@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-03-02:** 桉树奇景  
-![](https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg&w=1000)[桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚 (© Andrew Peacock/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-03-03:** 狂热野生  
+![](https://cn.bing.com/th?id=OHR.HornbillPair_ZH-CN3380997666_UHD.jpg&w=1000)[南黄弯嘴犀鸟，克鲁格国家公园 ，南非 (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.HornbillPair_ZH-CN3380997666_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
