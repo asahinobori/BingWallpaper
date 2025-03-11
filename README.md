@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-03-10:** 小睡片刻，再征服世界  
-![](https://cn.bing.com/th?id=OHR.NappingLion_ZH-CN1214312983_UHD.jpg&w=1000)[在伊沙沙区里正在睡觉的狮子，伊丽莎白女王国家公园，乌干达 (© Gunter Nuyts/Getty Images)](https://cn.bing.com/th?id=OHR.NappingLion_ZH-CN1214312983_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-03-11:** 大海的非凡造化  
+![](https://cn.bing.com/th?id=OHR.NusaPenida_ZH-CN4934656933_UHD.jpg&w=1000)[努沙佩尼达岛的破碎海滩, 巴厘岛, 印度尼西亚 (© joakimbkk/Getty Images)](https://cn.bing.com/th?id=OHR.NusaPenida_ZH-CN4934656933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
