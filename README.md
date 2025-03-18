@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-03-17:** 圣帕特里克节的魅力  
-![](https://cn.bing.com/th?id=OHR.BeckettBridge_ZH-CN6206942429_UHD.jpg&w=1000)[塞缪尔·贝克特桥, 都柏林, 爱尔兰 (© Colm Keating/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BeckettBridge_ZH-CN6206942429_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-03-18:** 漩涡般的心境  
+![](https://cn.bing.com/th?id=OHR.SedonaSpring_ZH-CN6305197600_UHD.jpg&w=1000)[红色岩层，塞多纳，亚利桑那州，美国 (© Jim Ekstrand/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.SedonaSpring_ZH-CN6305197600_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
