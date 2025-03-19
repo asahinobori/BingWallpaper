@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-03-18:** 漩涡般的心境  
-![](https://cn.bing.com/th?id=OHR.SedonaSpring_ZH-CN6305197600_UHD.jpg&w=1000)[红色岩层，塞多纳，亚利桑那州，美国 (© Jim Ekstrand/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.SedonaSpring_ZH-CN6305197600_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-03-19:** 伞状捕猎术  
+![](https://cn.bing.com/th?id=OHR.BlackHeron_ZH-CN6764711050_UHD.jpg&w=1000)[黑鹭捕鱼，乔贝国家公园，博茨瓦纳 (© Paul Souders/Minden PIctures)](https://cn.bing.com/th?id=OHR.BlackHeron_ZH-CN6764711050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
