@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-03-19:** 伞状捕猎术  
-![](https://cn.bing.com/th?id=OHR.BlackHeron_ZH-CN6764711050_UHD.jpg&w=1000)[黑鹭捕鱼，乔贝国家公园，博茨瓦纳 (© Paul Souders/Minden PIctures)](https://cn.bing.com/th?id=OHR.BlackHeron_ZH-CN6764711050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-03-20:** 春日仙境  
+![](https://cn.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_UHD.jpg&w=1000)[美丽盛开的樱花，杭州的春天，中国 (© zhang shuang/Getty Images)](https://cn.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
