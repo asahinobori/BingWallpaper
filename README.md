@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-03-21:** 树木万岁  
-![](https://cn.bing.com/th?id=OHR.DanumValley_ZH-CN5786482012_UHD.jpg&w=1000)[低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚 (© Nick Garbutt/Alamy)](https://cn.bing.com/th?id=OHR.DanumValley_ZH-CN5786482012_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-03-22:** 水的奇妙世界！  
+![](https://cn.bing.com/th?id=OHR.CenoteLilies_ZH-CN5915682591_UHD.jpg&w=1000)[尼特哈天然井水面上的睡莲，图卢姆，墨西哥 (© Franco Banfi/NPL/Minden)](https://cn.bing.com/th?id=OHR.CenoteLilies_ZH-CN5915682591_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
