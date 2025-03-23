@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-03-22:** 水的奇妙世界！  
-![](https://cn.bing.com/th?id=OHR.CenoteLilies_ZH-CN5915682591_UHD.jpg&w=1000)[尼特哈天然井水面上的睡莲，图卢姆，墨西哥 (© Franco Banfi/NPL/Minden)](https://cn.bing.com/th?id=OHR.CenoteLilies_ZH-CN5915682591_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-03-23:** 雷鸣不可阻挡  
+![](https://cn.bing.com/th?id=OHR.NebraskaStorm_ZH-CN6944682381_UHD.jpg&w=1000)[鲍曼附近日落时分的闪电和风暴云，布拉斯加州，美国 (© john finney photography/Getty Images)](https://cn.bing.com/th?id=OHR.NebraskaStorm_ZH-CN6944682381_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
