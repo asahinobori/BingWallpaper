@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-03-24:** 高草盛宴  
-![](https://cn.bing.com/th?id=OHR.ElephantGrass_ZH-CN7110191053_UHD.jpg&w=1000)[沙漠象与小象在高高的草丛中觅食，纳米比亚 (© Christophe Courteau/Minden Pictures)](https://cn.bing.com/th?id=OHR.ElephantGrass_ZH-CN7110191053_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-03-25:** 色彩斑斓的访客  
+![](https://cn.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg&w=1000)[向日葵田里的红额金翅雀，德国 (© Juniors Bildarchiv GmbH/Alamy)](https://cn.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
