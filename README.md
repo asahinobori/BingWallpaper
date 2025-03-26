@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-03-25:** 色彩斑斓的访客  
-![](https://cn.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg&w=1000)[向日葵田里的红额金翅雀，德国 (© Juniors Bildarchiv GmbH/Alamy)](https://cn.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-03-26:** 水面下的生命  
+![](https://cn.bing.com/th?id=OHR.CrystalManatee_ZH-CN7547286414_UHD.jpg&w=1000)[水晶河的海牛，佛罗里达州，美国 (© Stephen Frink/Getty Images)](https://cn.bing.com/th?id=OHR.CrystalManatee_ZH-CN7547286414_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
