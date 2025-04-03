@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-04-02:** 时间的波浪  
-![](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg&w=1000)[凯恩维尔附近荒地的砂岩地层, 犹他州, 美国 (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-04-03:** 天空无极限  
+![](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_UHD.jpg&w=1000)[沃森峰上空的彩虹, 巨人柱国家公园, 亚利桑那州, 美国 (© Frank Staub/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
