@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-04-07:** 你好，海狸！  
-![](https://cn.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg&w=1000)[美洲海狸, Moran, 怀俄明州, 美国 (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-04-08:** 芬芳清新的春天  
+![](https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg&w=1000)[春天的水仙花在清晨绽放 (© LedyX/Shutterstock)](https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
