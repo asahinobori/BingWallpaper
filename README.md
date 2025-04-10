@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-04-09:** 在繁星闪耀之前  
-![](https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg&w=1000)[纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊 (© Sizun Eye/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-04-10:** 野性本能  
+![](https://cn.bing.com/th?id=OHR.LittleFoxes_ZH-CN8622806156_UHD.jpg&w=1000)[靠近巢穴的红狐幼崽 (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.LittleFoxes_ZH-CN8622806156_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
