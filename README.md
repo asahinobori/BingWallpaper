@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-04-14:** 追逐开始！  
-![](https://cn.bing.com/th?id=OHR.SpottedDolphins_ZH-CN1257100316_UHD.jpg&w=1000)[圣玛丽亚岛附近的大西洋细吻海豚，亚速尔群岛，葡萄牙 (© Jordi Chias/Minden Pictures)](https://cn.bing.com/th?id=OHR.SpottedDolphins_ZH-CN1257100316_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-04-15:** 梦幻城堡！  
+![](https://cn.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg&w=1000)[卡拉奥拉城堡，格拉纳达，西班牙 (© Ugo Mellone/eStock Photo)](https://cn.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
