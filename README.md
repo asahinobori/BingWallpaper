@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-04-18:** 纪念历史  
-![](https://cn.bing.com/th?id=OHR.GoremeTurkey_ZH-CN0255739302_UHD.jpg&w=1000)[卡帕多西亚格雷梅国家公园上空的热气球，土耳其 (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.GoremeTurkey_ZH-CN0255739302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-04-19:** 国家公园周开始了  
+![](https://cn.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_UHD.jpg&w=1000)[锡安国家公园，犹他州，美国 (© Simon Dannhauer/Getty Images)](https://cn.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
