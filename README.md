@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-04-27:** 就在这里驻足吧  
-![](https://cn.bing.com/th?id=OHR.RedwoodGrove_ZH-CN3339576686_UHD.jpg&w=1000)[红木国家公园和州立公园, 加利福尼亚州, 美国 (© Bob Pool/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodGrove_ZH-CN3339576686_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-04-28:** 这只黑斑羚正在何处漫游？  
+![](https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg&w=1000)[莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
