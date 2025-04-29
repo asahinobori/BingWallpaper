@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-04-28:** 这只黑斑羚正在何处漫游？  
-![](https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg&w=1000)[莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-04-29:** 几何之美绽放于此  
+![](https://cn.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg&w=1000)[维朗德里城堡，卢瓦尔河谷，法国 (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
