@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-05-01:** 芬芳的传统  
-![](https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg&w=1000)[鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)](https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-05-02:** 绿鹭  
+![](https://cn.bing.com/th?id=OHR.BrazilHeron_ZH-CN7200229300_UHD.jpg&w=1000)[维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西 (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.BrazilHeron_ZH-CN7200229300_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
