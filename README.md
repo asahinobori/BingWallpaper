@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-05-03:** 让我们一起庆祝宇宙  
-![](https://cn.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg&w=1000)[拱门国家公园双拱门映衬下的银河，犹他州，美国 (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-05-04:** 欢迎来到纳布星球！  
+![](https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg&w=1000)[西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
