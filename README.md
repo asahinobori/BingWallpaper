@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-05-04:** 欢迎来到纳布星球！  
-![](https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg&w=1000)[西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-05-05:** 秀美壮丽的山河  
+![](https://cn.bing.com/th?id=OHR.BeginningofSummer25Y_ZH-CN2000519236_UHD.jpg&w=1000)[日出时分，美丽的喀斯特山脉鸟瞰图，中国桂林 (© zhaojiankang/Getty Images)](https://cn.bing.com/th?id=OHR.BeginningofSummer25Y_ZH-CN2000519236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
