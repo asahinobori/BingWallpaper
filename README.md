@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-05-13:** 66岁，依然美丽动人  
-![](https://cn.bing.com/th?id=OHR.TorresChile_ZH-CN6319613148_UHD.jpg&w=1000)[百内国家公园, 巴塔哥尼亚, 智利 (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.TorresChile_ZH-CN6319613148_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-05-14:** 矿石与传奇  
+![](https://cn.bing.com/th?id=OHR.SardiniaFlavia_ZH-CN6784449568_UHD.jpg&w=1000)[弗拉维亚港, 苏尔西斯-伊格莱西恩特, 撒丁岛, 意大利 (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.SardiniaFlavia_ZH-CN6784449568_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
