@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-05-15:** 伦敦时间到！  
-![](https://cn.bing.com/th?id=OHR.LondonParliament_ZH-CN7089923691_UHD.jpg&w=1000)[大本钟和国会大厦, 威斯敏斯特宫, 伦敦, 英国 (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.LondonParliament_ZH-CN7089923691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-05-16:** 守护濒危生命的一天  
+![](https://cn.bing.com/th?id=OHR.GreenMacaw_ZH-CN3451340204_UHD.jpg&w=1000)[大绿金刚鹦鹉, 墨西哥 (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.GreenMacaw_ZH-CN3451340204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
