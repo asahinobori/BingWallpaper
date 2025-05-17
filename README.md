@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-05-16:** 守护濒危生命的一天  
-![](https://cn.bing.com/th?id=OHR.GreenMacaw_ZH-CN3451340204_UHD.jpg&w=1000)[大绿金刚鹦鹉, 墨西哥 (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.GreenMacaw_ZH-CN3451340204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-05-17:** 威尼斯式的“甜蜜生活”  
+![](https://cn.bing.com/th?id=OHR.VeniceLagoon_ZH-CN3791408491_UHD.jpg&w=1000)[威尼斯潟湖中的三角洲, 意大利 (© Dimitri Weber/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.VeniceLagoon_ZH-CN3791408491_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
