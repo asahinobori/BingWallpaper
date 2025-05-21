@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-05-20:** 小翅膀，大作用  
-![](https://cn.bing.com/th?id=OHR.HoneyBeeLavender_ZH-CN4513594236_UHD.jpg&w=1000)[薰衣草上的蜜蜂 (© Anthony Brown/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.HoneyBeeLavender_ZH-CN4513594236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-05-21:** 茶歇时光  
+![](https://cn.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg&w=1000)[杨家塘村茶园，松阳县，中国 (© feng xu/Getty Images)](https://cn.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
