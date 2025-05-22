@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-05-21:** 茶歇时光  
-![](https://cn.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg&w=1000)[杨家塘村茶园，松阳县，中国 (© feng xu/Getty Images)](https://cn.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-05-22:** 猴面包树大道  
+![](https://cn.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg&w=1000)[日落时分的猴面包树，猴面包树大道，马达加斯加 (© Framalicious/Shutterstock)](https://cn.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
