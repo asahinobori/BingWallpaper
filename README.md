@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-05-25:** 绽放于你所在之地  
-![](https://cn.bing.com/th?id=OHR.ButchartFlowers_ZH-CN6692930571_UHD.jpg&w=1000)[布伦特伍德湾的布查特花园，不列颠哥伦比亚省，加拿大 (© 2009fotofriends/Shutterstock)](https://cn.bing.com/th?id=OHR.ButchartFlowers_ZH-CN6692930571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-05-26:** 山间奔驰  
+![](https://cn.bing.com/th?id=OHR.Arashiyama2025_ZH-CN7836747321_UHD.jpg&w=1000)[沿着岚山保津川行驶的火车，京都，日本 (© Alvin Huang/Getty Images)](https://cn.bing.com/th?id=OHR.Arashiyama2025_ZH-CN7836747321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
