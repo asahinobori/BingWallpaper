@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-05-26:** 山间奔驰  
-![](https://cn.bing.com/th?id=OHR.Arashiyama2025_ZH-CN7836747321_UHD.jpg&w=1000)[沿着岚山保津川行驶的火车，京都，日本 (© Alvin Huang/Getty Images)](https://cn.bing.com/th?id=OHR.Arashiyama2025_ZH-CN7836747321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-05-27:** 一处海滨奇观  
+![](https://cn.bing.com/th?id=OHR.MonaValePool_ZH-CN7968271596_UHD.jpg&w=1000)[梦娜维尔岩池，悉尼，澳大利亚 (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.MonaValePool_ZH-CN7968271596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
