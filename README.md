@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-06-04:** 卡拉卢纳海滩, 撒丁岛, 意大利  
-![](https://cn.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_UHD.jpg&w=1000)[卡拉卢纳海滩, 撒丁岛, 意大利 (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-06-05:** 隐藏的美景  
+![](https://cn.bing.com/th?id=OHR.FumacinhaBahia_ZH-CN9190616593_UHD.jpg&w=1000)[福玛萨瀑布，迪亚曼蒂纳，巴西 (© Pulsar Images/Alamy)](https://cn.bing.com/th?id=OHR.FumacinhaBahia_ZH-CN9190616593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
