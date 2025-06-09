@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-06-08:** 来自彼岸的问候  
-![](https://cn.bing.com/th?id=OHR.StellarSeaLions_ZH-CN2859514359_UHD.jpg&w=1000)[北海狮, 温哥华岛, 不列颠哥伦比亚省, 加拿大 (© Steve Woods Photography/Getty Images)](https://cn.bing.com/th?id=OHR.StellarSeaLions_ZH-CN2859514359_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-06-09:** 探索君临城  
+![](https://cn.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_UHD.jpg&w=1000)[达尔马提亚的杜布罗夫尼克古城，克罗地亚 (© bluejayphoto/Getty Images)](https://cn.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
