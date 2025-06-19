@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-06-18:** 让授粉游戏开始吧！  
-![](https://cn.bing.com/th?id=OHR.AsianSwallowtail_ZH-CN7442263508_UHD.jpg&w=1000)[红花石蒜上的柑橘凤蝶 (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.AsianSwallowtail_ZH-CN7442263508_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-06-19:** 潮汐与时间交汇之地  
+![](https://cn.bing.com/th?id=OHR.WinterBegins_ZH-CN7638411804_UHD.jpg&w=1000)[圣卡塔琳娜州的海滩, 巴西 (© CaioCarvalhoPhotography/Getty Images)](https://cn.bing.com/th?id=OHR.WinterBegins_ZH-CN7638411804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
