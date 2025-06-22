@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-06-21:** 此花端合在瑶池  
-![](https://cn.bing.com/th?id=OHR.SummerSolsticeY25_ZH-CN2728972774_UHD.jpg&w=1000)[雾中莲花，中国佛山 (© huoguangliang/Getty Images)](https://cn.bing.com/th?id=OHR.SummerSolsticeY25_ZH-CN2728972774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-06-22:** 一路丛林  
+![](https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg&w=1000)[亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images)](https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
