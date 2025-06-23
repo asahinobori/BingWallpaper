@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-06-22:** 一路丛林  
-![](https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg&w=1000)[亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images)](https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-06-23:** 从废墟中重生  
+![](https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg&w=1000)[德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
