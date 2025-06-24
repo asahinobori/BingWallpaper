@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-06-23:** 从废墟中重生  
-![](https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg&w=1000)[德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-06-24:** 大自然的耐心之作  
+![](https://cn.bing.com/th?id=OHR.DelicateArch_ZH-CN8971667580_UHD.jpg&w=1000)[精致拱门, 拱门国家公园, 犹他州, 美国 (© mmac72/Getty Images)](https://cn.bing.com/th?id=OHR.DelicateArch_ZH-CN8971667580_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
