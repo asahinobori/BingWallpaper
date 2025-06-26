@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-06-25:** 这里举办的是哪个音乐节？  
-![](https://cn.bing.com/th?id=OHR.GlastonburyScenic_ZH-CN9162571249_UHD.jpg&w=1000)[格拉斯顿伯里托尔上的圣迈克尔塔, 格拉斯顿伯里, 萨默塞特郡, 英格兰 (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.GlastonburyScenic_ZH-CN9162571249_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-06-26:** 海岸线附近的“马戏”  
+![](https://cn.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_UHD.jpg&w=1000)[马头岩上空的银河, 新南威尔士州, 澳大利亚 (© Philip Thurston/Getty Images)](https://cn.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
