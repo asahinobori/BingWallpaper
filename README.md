@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-07-02:** 触手之间的依赖  
-![](https://cn.bing.com/th?id=OHR.MaroonClownfish_ZH-CN5071934692_UHD.jpg&w=1000)[被泡尖海葵包围的刺颊海葵鱼，米尔恩湾，巴布亚新几内亚 (© Fred Bavendam/Nature Picture Library)](https://cn.bing.com/th?id=OHR.MaroonClownfish_ZH-CN5071934692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-07-03:** 彩虹河的清澈拥抱  
+![](https://cn.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg&w=1000)[彩虹泉州立公园的彩虹河，佛罗里达州，美国 (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
