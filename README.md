@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-07-09:** 具有纪念意义的火车站  
-![](https://cn.bing.com/th?id=OHR.ConstitucionStation_ZH-CN7962568053_UHD.jpg&w=1000)[宪法火车站，布宜诺斯艾利斯，阿根廷 (© Grafissimo/Getty Images)](https://cn.bing.com/th?id=OHR.ConstitucionStation_ZH-CN7962568053_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-07-10:** 奔向自由之浪  
+![](https://cn.bing.com/th?id=OHR.BahamaBlues_ZH-CN8134624828_UHD.jpg&w=1000)[巴哈马的绿松石色水域 (© BlueOrange Studio/Adobe Stock)](https://cn.bing.com/th?id=OHR.BahamaBlues_ZH-CN8134624828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
