@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-07-16:** 伊西斯女神的光辉照耀下  
-![](https://cn.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_UHD.jpg&w=1000)[菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及 (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-07-17:** 追随香气的地平线  
+![](https://cn.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg&w=1000)[瓦朗索勒高原的薰衣草田，法国 (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
