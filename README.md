@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-07-17:** 追随香气的地平线  
-![](https://cn.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg&w=1000)[瓦朗索勒高原的薰衣草田，法国 (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-07-18:** 一切准备就绪，等待日落  
+![](https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_UHD.jpg&w=1000)[塞里雅兰瀑布日落美景，冰岛 (© Tom Mackie/AWL/plainpicture)](https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
