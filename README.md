@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-07-18:** 一切准备就绪，等待日落  
-![](https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_UHD.jpg&w=1000)[塞里雅兰瀑布日落美景，冰岛 (© Tom Mackie/AWL/plainpicture)](https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-07-19:** 化石、瀑布与林间小径  
+![](https://cn.bing.com/th?id=OHR.YohoNP_ZH-CN2349599497_UHD.jpg&w=1000)[幽鹤国家公园的伯吉斯山和翡翠湖, 不列颠哥伦比亚省, 加拿大 (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.YohoNP_ZH-CN2349599497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
