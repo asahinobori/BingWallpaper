@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-07-20:** 在月光下起舞  
-![](https://cn.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_UHD.jpg&w=1000)[望远镜下的月球表面照片 (© Sergey Kuznetsov/Getty Images)](https://cn.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-07-21:** 海洋中的热带雨林  
+![](https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg&w=1000)[浅海中的鹿角珊瑚 (© blue-sea.cz/Shutterstock)](https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
