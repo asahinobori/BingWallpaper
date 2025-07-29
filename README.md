@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-07-28:** 领先一步  
-![](https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg&w=1000)[蒙古草原上的蒙古包 (© Michel Arnault/Shutterstock)](https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-07-29:** 丛林女王  
+![](https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg&w=1000)[雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)](https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
