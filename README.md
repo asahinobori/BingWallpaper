@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-08-03:** 你好，黄色！  
-![](https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg&w=1000)[夏天田野里盛开的向日葵 (© Arsgera/Shutterstock)](https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-08-04:** 这是谁的家？  
+![](https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg&w=1000)[巢中的乌林鸮, 芬兰 (© imageBROKER.com/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
