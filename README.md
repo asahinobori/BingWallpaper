@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-08-08:** 奔流不息，为你为我  
-![](https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg&w=1000)[伊瓜苏瀑布的三火枪瀑布, 阿根廷 (© Mark Meredith/Getty Images)](https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-08-09:** 致敬原住民之声  
+![](https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg&w=1000)[陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰 (© Joppi/Getty Images)](https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
