@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-08-09:** 致敬原住民之声  
-![](https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg&w=1000)[陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰 (© Joppi/Getty Images)](https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-08-10:** 为正义怒吼  
+![](https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg&w=1000)[马赛马拉国家保护区的雌狮,肯尼亚 (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
