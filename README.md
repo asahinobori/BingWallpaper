@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-08-10:** 为正义怒吼  
-![](https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg&w=1000)[马赛马拉国家保护区的雌狮,肯尼亚 (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-08-11:** 来自山巅的明信片  
+![](https://cn.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg&w=1000)[圣玛格达莱娜, 多洛米蒂山, 意大利 (© Sakrapee Nopparat/Getty Images)](https://cn.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
