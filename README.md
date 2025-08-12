@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-08-11:** 来自山巅的明信片  
-![](https://cn.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg&w=1000)[圣玛格达莱娜, 多洛米蒂山, 意大利 (© Sakrapee Nopparat/Getty Images)](https://cn.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-08-12:** 野性、智慧与奇迹  
+![](https://cn.bing.com/th?id=OHR.KenyaElephants_ZH-CN7587207512_UHD.jpg&w=1000)[非洲象群, 安博塞利国家公园, 肯尼亚 (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.KenyaElephants_ZH-CN7587207512_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
