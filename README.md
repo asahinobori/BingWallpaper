@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-08-13:** 地球的公开秘密  
-![](https://cn.bing.com/th?id=OHR.CoronaArch_ZH-CN5406267193_UHD.jpg&w=1000)[一名男子从摩押附近的科罗纳拱门索降, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CoronaArch_ZH-CN5406267193_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-08-14:** 从山顶俯瞰  
+![](https://cn.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg&w=1000)[皮兹奈尔山缆车站, 格劳宾登州, 瑞士 (© Roberto Moiola/Alamy)](https://cn.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
