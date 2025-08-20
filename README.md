@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-08-19:** 随海而流的岩石！  
-![](https://cn.bing.com/th?id=OHR.GipuzcoaSummer_ZH-CN1926924422_UHD.jpg&w=1000)[祖马亚的复理层，巴斯克地区，西班牙 (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.GipuzcoaSummer_ZH-CN1926924422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-08-20:** 永恒的建筑  
+![](https://cn.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg&w=1000)[博尼法乔城堡，科西嘉岛南部，法国 (© Marc Dozier/Getty Images)](https://cn.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
