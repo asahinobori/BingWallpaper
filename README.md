@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-08-22:** 大自然的绿色地毯  
-![](https://cn.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg&w=1000)[帕卢斯连绵起伏的丘陵，华盛顿州，美国 (© svetlana57/Getty Images)](https://cn.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-08-23:** 彩林叠翠间的瀑布  
+![](https://cn.bing.com/th?id=OHR.ChushuY25_ZH-CN0495086720_UHD.jpg&w=1000)[秋季九寨沟国家公园里的诺日朗瀑布, 四川省, 中国 (© tawatchaiprakobkit/Getty images)](https://cn.bing.com/th?id=OHR.ChushuY25_ZH-CN0495086720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
