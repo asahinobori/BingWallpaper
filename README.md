@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-08-27:** 海洋上方的湖泊  
-![](https://cn.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg&w=1000)[瑟沃格湖，瓦加尔岛，法罗群岛 (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-08-28:** 这只白鹭毫无遗憾  
+![](https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&w=1000)[大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
