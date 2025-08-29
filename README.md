@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-08-28:** 这只白鹭毫无遗憾  
-![](https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&w=1000)[大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-08-29:** 网格的心脏  
+![](https://cn.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg&w=1000)[马约尔广场鸟瞰图, 马德里, 西班牙 (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
