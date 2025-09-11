@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-09-10:** 阳光明媚，赶紧打草  
-![](https://cn.bing.com/th?id=OHR.YorkshireHay_ZH-CN9097986997_UHD.jpg&w=1000)[干草捆，北约克郡，英格兰 (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.YorkshireHay_ZH-CN9097986997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-09-11:** 准备仰望天空吧！  
+![](https://cn.bing.com/th?id=OHR.ExtremaduraJamon_ZH-CN1559355133_UHD.jpg&w=1000)[蒙弗拉圭国家公园塔霍河畔的猎鹰岩，西班牙 (© Daniel Viñé Garcia/Getty Images)](https://cn.bing.com/th?id=OHR.ExtremaduraJamon_ZH-CN1559355133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
