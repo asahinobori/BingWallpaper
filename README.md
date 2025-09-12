@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-09-11:** 准备仰望天空吧！  
-![](https://cn.bing.com/th?id=OHR.ExtremaduraJamon_ZH-CN1559355133_UHD.jpg&w=1000)[蒙弗拉圭国家公园塔霍河畔的猎鹰岩，西班牙 (© Daniel Viñé Garcia/Getty Images)](https://cn.bing.com/th?id=OHR.ExtremaduraJamon_ZH-CN1559355133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-09-12:** 野性畅游，自在徜徉  
+![](https://cn.bing.com/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_UHD.jpg&w=1000)[红海中的飞旋海豚群, 阿拉姆港, 埃及 (© Franco Banfi/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
