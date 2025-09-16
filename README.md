@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-09-15:** 涉水寻迹  
-![](https://cn.bing.com/th?id=OHR.Echasse_ZH-CN0670369582_UHD.jpg&w=1000)[黑翅长脚鹬, 法国 (© Antonio Sementa/500px/Getty Images)](https://cn.bing.com/th?id=OHR.Echasse_ZH-CN0670369582_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-09-16:** 巨大的成功  
+![](https://cn.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg&w=1000)[从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象 (© Stocktrek Images/Getty Images)](https://cn.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
