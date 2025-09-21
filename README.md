@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-09-20:** 关于啤酒和风景的故事  
-![](https://cn.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_UHD.jpg&w=1000)[慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国 (© LOOK-foto/Alamy)](https://cn.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-09-21:** 酷毙了  
+![](https://cn.bing.com/th?id=OHR.IceOtters_ZH-CN5393791969_UHD.jpg&w=1000)[海獭，威廉王子湾，阿拉斯加州，美国 (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.IceOtters_ZH-CN5393791969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
