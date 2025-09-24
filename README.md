@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-09-23:** 树树皆秋色  
-![](https://cn.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_UHD.jpg&w=1000)[航拍中国江苏省常州翠竹公园 (© Xu Changyu/Getty images)](https://cn.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-09-24:** 孤独的巨人  
+![](https://cn.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg&w=1000)[魔鬼塔国家纪念碑, 怀俄明州，美国 (© Laura Hedien/Getty Images)](https://cn.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
