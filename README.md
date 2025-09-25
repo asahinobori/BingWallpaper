@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-09-24:** 孤独的巨人  
-![](https://cn.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg&w=1000)[魔鬼塔国家纪念碑, 怀俄明州，美国 (© Laura Hedien/Getty Images)](https://cn.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-09-25:** 忠勇的雕刻石  
+![](https://cn.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_UHD.jpg&w=1000)[奇陶尔加尔堡, 拉贾斯坦邦, 印度 (© chetansoni/Shutterstock)](https://cn.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
