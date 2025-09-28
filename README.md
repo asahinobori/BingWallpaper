@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-09-27:** 美丽的星空  
-![](https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg&w=1000)[坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-09-28:** 品味皮恩扎  
+![](https://cn.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg&w=1000)[托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
