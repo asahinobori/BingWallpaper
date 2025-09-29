@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-09-28:** 品味皮恩扎  
-![](https://cn.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg&w=1000)[托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-09-29:** 彩虹骑行与宁静氛围  
+![](https://cn.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_UHD.jpg&w=1000)[豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
