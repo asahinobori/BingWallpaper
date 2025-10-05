@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-10-04:** 使命必达  
-![](https://cn.bing.com/th?id=OHR.DragonEndeavour_ZH-CN8160066040_UHD.jpg&w=1000)[从SpaceX载人龙飞船“奋进号”视角看到的国际空间站主太阳能电池阵列 (© NASA)](https://cn.bing.com/th?id=OHR.DragonEndeavour_ZH-CN8160066040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-10-05:** 庆祝智慧！  
+![](https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_UHD.jpg&w=1000)[中欧森林里的鬼鸮 (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
