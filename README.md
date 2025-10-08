@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-10-07:** 金色的秋日余晖  
-![](https://cn.bing.com/th?id=OHR.RidgwayAspens_ZH-CN8735375502_UHD.jpg&w=1000)[里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.RidgwayAspens_ZH-CN8735375502_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-10-08:** 动态伪装  
+![](https://cn.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg&w=1000)[白日章鱼, 毛伊岛, 夏威夷, 美国 (© Dave Fleetham/plainpicture)](https://cn.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
