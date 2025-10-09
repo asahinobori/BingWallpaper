@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-10-08:** 动态伪装  
-![](https://cn.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg&w=1000)[白日章鱼, 毛伊岛, 夏威夷, 美国 (© Dave Fleetham/plainpicture)](https://cn.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-10-09:** 宇宙在绽放  
+![](https://cn.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_UHD.jpg&w=1000)[‌詹姆斯·韦伯太空望远镜观测的创生之柱 (© NASA)](https://cn.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
