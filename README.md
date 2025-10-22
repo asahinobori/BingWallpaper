@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-10-21:** 鸟喙的故事  
-![](https://cn.bing.com/th?id=OHR.ToucanForest_ZH-CN0072036253_UHD.jpg&w=1000)[哥斯达黎加的厚嘴巨嘴鸟 (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.ToucanForest_ZH-CN0072036253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-10-22:** 刻在石头上  
+![](https://cn.bing.com/th?id=OHR.BulgariaRocks_ZH-CN0234903972_UHD.jpg&w=1000)[贝洛格拉齐克石林，保加利亚 (© EvaL Miko/Shutterstock)](https://cn.bing.com/th?id=OHR.BulgariaRocks_ZH-CN0234903972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
