@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-10-22:** 刻在石头上  
-![](https://cn.bing.com/th?id=OHR.BulgariaRocks_ZH-CN0234903972_UHD.jpg&w=1000)[贝洛格拉齐克石林，保加利亚 (© EvaL Miko/Shutterstock)](https://cn.bing.com/th?id=OHR.BulgariaRocks_ZH-CN0234903972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-10-23:** 雪中深情  
+![](https://cn.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg&w=1000)[雪豹和她的幼崽, 斯皮提谷, 寒冷沙漠生物圈保护区, 印度 (© Oriol Alamany/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
