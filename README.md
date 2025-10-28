@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-10-27:** 千年秘境  
-![](https://cn.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg&w=1000)[被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国 (© Feng Wei Photography/Getty images)](https://cn.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-10-28:** 通往石之奇境的大门  
+![](https://cn.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg&w=1000)[安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克 (© Kseniya_Milner/Getty Images)](https://cn.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
