@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-10-31:** 在万圣节的魔咒之下  
-![](https://cn.bing.com/th?id=OHR.BranCastle_ZH-CN3879660917_UHD.jpg&w=1000)[布兰城堡入口, 布拉索夫, 罗马尼亚 (© blue sky in my pocket/Getty Images)](https://cn.bing.com/th?id=OHR.BranCastle_ZH-CN3879660917_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-11-01:** 古老血脉的兽群  
+![](https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg&w=1000)[野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国 (© Cheryl Ramalho/Getty Images)](https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
