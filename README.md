@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-11-09:** 从前有一颗星星  
-![](https://cn.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg&w=1000)[礁湖星云中的星际云，由哈勃太空望远镜拍摄 (© ESA/NASA)](https://cn.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-11-10:** 草原之下的生命  
+![](https://cn.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg&w=1000)[土拨鼠镇的黑尾土拨鼠，劣地国家公园，南达科他州，美国 (© Greg Vaughn/Getty Images)](https://cn.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
