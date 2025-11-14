@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-11-13:** 星光下的颤动之树  
-![](https://cn.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg&w=1000)[夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚 (© Wim van den Heever/naturepl.com)](https://cn.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-11-14:** 快节奏时代，别忘了慢下来  
+![](https://cn.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_UHD.jpg&w=1000)[海牛妈妈和幼崽，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)](https://cn.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
