@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-11-16:** 承载过往的篇章  
-![](https://cn.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg&w=1000)[里昂的一条穿廊，法国 (© TPopova/Getty Images) 法国](https://cn.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-11-17:** 小径在召唤  
+![](https://cn.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg&w=1000)[谢南多厄国家公园的秋色，弗吉尼亚州，美国 (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
