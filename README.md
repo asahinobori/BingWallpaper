@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-11-17:** 小径在召唤  
-![](https://cn.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg&w=1000)[谢南多厄国家公园的秋色，弗吉尼亚州，美国 (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-11-18:** 秋日里的羽翼明星  
+![](https://cn.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg&w=1000)[雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
