@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-11-24:** 岩石中的秘密  
-![](https://cn.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg&w=1000)[瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)](https://cn.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-11-25:** 爱情、幸运与硬币  
+![](https://cn.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg&w=1000)[罗马的特雷维喷泉, 意大利 (© Nico De Pasquale Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
