@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-11-27:** 潮起潮落的坚守  
-![](https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg&w=1000)[伊斯特本码头, 东萨塞克斯郡, 英格兰 (© Tolga_TEZCAN/Getty Images)](https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-11-28:** 白色回响  
+![](https://cn.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg&w=1000)[瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利 (© ClickAlps/Alamy)](https://cn.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
