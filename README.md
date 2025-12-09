@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-12-08:** 一切安详，一切明亮  
-![](https://cn.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg&w=1000)[多马索的建筑上的圣诞彩灯，科莫湖，意大利 (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-12-09:** 说“茄子”……或者“青草”  
+![](https://cn.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg&w=1000)[原驼，北角，瓦尔德斯半岛, 阿根廷 (© Sylvain Cordier/naturepl.com)](https://cn.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
