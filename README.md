@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-12-12:** 点亮节日的红色植物  
-![](https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg&w=1000)[有斑点的一品红 (© DigiPub/Getty Images)](https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-12-13:** 冰封的倒影  
+![](https://cn.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg&w=1000)[默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)](https://cn.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
