@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-12-16:** 小帽子，大能量  
-![](https://cn.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg&w=1000)[圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)](https://cn.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-12-17:** 皮毛、霜冻和盛宴  
+![](https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg&w=1000)[在诺森伯兰郡的欧亚红松鼠, 英格兰 (© Michael_Conrad/Getty Images)](https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
