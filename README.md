@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-12-18:** 犹他州的时光层叠  
-![](https://cn.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg&w=1000)[太阳神庙，圆顶礁国家公园, 犹他州, 美国 (© Austin Cronnelly/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-12-19:** 高山的悠久历史  
+![](https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg&w=1000)[博尔米奥的雪景，伦巴第大区，意大利 (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
