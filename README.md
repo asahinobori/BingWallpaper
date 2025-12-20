@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-12-19:** 高山的悠久历史  
-![](https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg&w=1000)[博尔米奥的雪景，伦巴第大区，意大利 (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-12-20:** 闪烁的纸星星  
+![](https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg&w=1000)[圣诞星形灯笼，德国 (© artas/Getty Images)](https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
