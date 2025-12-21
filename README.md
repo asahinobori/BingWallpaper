@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-12-20:** 闪烁的纸星星  
-![](https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg&w=1000)[圣诞星形灯笼，德国 (© artas/Getty Images)](https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-12-21:** 美丽的雾凇景色  
+![](https://cn.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg&w=1000)[美丽的雾凇景色，大庆市，黑龙江省，中国 (© Dashu Xinganling/shutterstock)](https://cn.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
