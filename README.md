@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-12-21:** 美丽的雾凇景色  
-![](https://cn.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg&w=1000)[美丽的雾凇景色，大庆市，黑龙江省，中国 (© Dashu Xinganling/shutterstock)](https://cn.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-12-22:** 历史与现代的交融  
+![](https://cn.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg&w=1000)[法兰克福老桥，德国 (© diegograndi/Getty Images)](https://cn.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
