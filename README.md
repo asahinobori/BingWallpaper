@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-12-25:** 微缩世界，无尽奇想  
-![](https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg&w=1000)[海德堡圣诞市场上的雪球，德国 (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-12-26:** 打破盒子的传统  
+![](https://cn.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_UHD.jpg&w=1000)[索尔兹伯里大教堂，威尔特郡，英格兰 (© Julian Elliott Photography/Getty Images)](https://cn.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
