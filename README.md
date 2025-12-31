@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-12-30:** 新太阳的诞生  
-![](https://cn.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg&w=1000)[晨光透过结霜的树木洒下，瑞典 (© Schon/Getty Images)](https://cn.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2025-12-31:** 柏林，新年之桥  
+![](https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg&w=1000)[除夕夜，奥伯鲍姆桥，柏林，德国 (© spreephoto.de/Getty Images)](https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
