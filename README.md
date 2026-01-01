@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2025-12-31:** 柏林，新年之桥  
-![](https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg&w=1000)[除夕夜，奥伯鲍姆桥，柏林，德国 (© spreephoto.de/Getty Images)](https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-01-01:** 伸个懒腰，迈向新年！  
+![](https://cn.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg&w=1000)[正在睡觉的北极狐 (© Chansak Joe/Getty Images)](https://cn.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
