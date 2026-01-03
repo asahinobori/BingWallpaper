@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-01-02:** 威尼斯的灵魂  
-![](https://cn.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_UHD.jpg&w=1000)[威尼斯鸟瞰图, 意大利 (© Clement Leonard/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-01-03:** 传奇故事前的篇章  
+![](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg&w=1000)[劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士 (© pongnathee kluaythong/Getty Images)](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
