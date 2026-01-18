@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-01-16:** 眼神对上了  
-![](https://cn.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_UHD.jpg&w=1000)[埃托沙国家公园的豹子，纳米比亚 (© Norbert Achtelik/Cavan Images)](https://cn.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-01-18:** 伪装成沙漠的奇境  
+![](https://cn.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_UHD.jpg&w=1000)[白沙国家公园，新墨西哥州，美国 (© Francesco Carucci/Getty Images)](https://cn.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
