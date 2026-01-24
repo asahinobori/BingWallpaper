@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-01-23:** 霜雪中的盛宴  
-![](https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg&w=1000)[绵羊在雪地里吃草，冰岛 (© Christophe Lehenaff/Getty Images)](https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-01-24:** 瑞士山间的短逃离  
+![](https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg&w=1000)[阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images)](https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
