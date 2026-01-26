@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-01-25:** 传统熠熠生辉  
-![](https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_UHD.jpg&w=1000)[伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰 (© Alister Firth/Alamy)](https://cn.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-01-26:** 巴伐利亚的瑰宝  
+![](https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg&w=1000)[新天鹅堡，巴伐利亚州，德国 (© www.fredconcha.com @ All Rights Reserved/Getty Images)](https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
