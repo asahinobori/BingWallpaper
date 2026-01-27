@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-01-26:** 巴伐利亚的瑰宝  
-![](https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg&w=1000)[新天鹅堡，巴伐利亚州，德国 (© www.fredconcha.com @ All Rights Reserved/Getty Images)](https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-01-27:** 羽翼预告：前方有鹈鹕  
+![](https://cn.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg&w=1000)[卷羽鹈鹕，凯尔基尼湖，希腊 (© Guy Edwardes/naturepl.com)](https://cn.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
