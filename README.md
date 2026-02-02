@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-02-01:** 奇迹之墙  
-![](https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&w=1000)[奥林达的彩色房子, 巴西 (© Robert Pekar/Alamy)](https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-02-02:** 影子的承诺  
+![](https://cn.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg&w=1000)[阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利 (© Raimund Linke/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
