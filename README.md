@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-02-03:** 太浩湖视觉盛宴  
-![](https://cn.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg&w=1000)[翡翠湾和范内特岛, 太浩湖, 加利福尼亚州, 美国 (© Bill Stevenson/Cavan Images)](https://cn.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-02-04:** 优雅掠过天际  
+![](https://cn.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_UHD.jpg&w=1000)[雪中​​的红鸢 (© Carl Mckie/500px/Getty Images)](https://cn.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
