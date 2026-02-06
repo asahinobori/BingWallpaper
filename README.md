@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-02-05:** 困在网格里  
-![](https://cn.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_UHD.jpg&w=1000)[戈佐岛上的盐田, 马耳他 (© Marius Roman/Getty Images)](https://cn.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-02-06:** 拉古塞拉——奥运赛季的巅峰  
+![](https://cn.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg&w=1000)[贾乌山口的拉古塞拉峰, 在科尔蒂纳丹佩佐附近, 意大利 (© Tomasz Podolski/Getty Images)](https://cn.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
