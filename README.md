@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-02-06:** 拉古塞拉——奥运赛季的巅峰  
-![](https://cn.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg&w=1000)[贾乌山口的拉古塞拉峰, 在科尔蒂纳丹佩佐附近, 意大利 (© Tomasz Podolski/Getty Images)](https://cn.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-02-07:** 在盐沼与天空之间，万物静谧  
+![](https://cn.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg&w=1000)[玻利维亚乌尤尼盐湖 (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
