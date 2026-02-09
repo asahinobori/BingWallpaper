@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-02-08:** 从宁静的夜晚到充满冒险的白天  
-![](https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg&w=1000)[科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)](https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-02-09:** 斑纹流转  
+![](https://cn.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_UHD.jpg&w=1000)[阿穆尔豹猫，俄罗斯 (© Valeriy Maleev/naturepl.com)](https://cn.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
