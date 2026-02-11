@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-02-10:** 海妖歌唱之处  
-![](https://cn.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_UHD.jpg&w=1000)[埃斯韦德拉岛和埃斯韦德拉内尔岛，伊维萨岛，西班牙 (© L. Apolli/Getty Images)](https://cn.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-02-11:** 对比之谷  
+![](https://cn.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_UHD.jpg&w=1000)[死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国 (© Jim Patterson/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
