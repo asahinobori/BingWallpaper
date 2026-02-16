@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-02-15:** 浪涛下的歌谣  
-![](https://cn.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_UHD.jpg&w=1000)[蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国 (© Kiliii Fish/Cavan Images)](https://cn.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-02-16:** 祝除夕团圆，新年顺遂！  
+![](https://cn.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg&w=1000)[庆祝春节的龙形灯笼，中国西安 (© Pan Hong/Getty Images)](https://cn.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
