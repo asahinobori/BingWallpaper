@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-02-16:** 祝除夕团圆，新年顺遂！  
-![](https://cn.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg&w=1000)[庆祝春节的龙形灯笼，中国西安 (© Pan Hong/Getty Images)](https://cn.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-02-17:** 福气满满，马年大吉  
+![](https://cn.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_UHD.jpg&w=1000)[中国春节传统汉字“福” (© DuKai摄影师/Getty Images)](https://cn.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
