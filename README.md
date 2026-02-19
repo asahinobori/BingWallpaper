@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-02-18:** 生而自由，永不驯服  
-![](https://cn.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_UHD.jpg&w=1000)[普氏野马 (© Nemyrivskyi Viacheslav/Getty Images)](https://cn.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-02-19:** 大地凝视着我们  
+![](https://cn.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg&w=1000)[乌塔克莱夫海滩的“龙之眼”岩层，挪威 (© reisegraf/Getty Images)](https://cn.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
