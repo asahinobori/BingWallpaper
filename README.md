@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-02-21:** 冬日的低语  
-![](https://cn.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_UHD.jpg&w=1000)[一只红狐狸站在雪地里，大提顿国家公园，怀俄明州，美国 (© Radomir Jakubowski/naturepl.com)](https://cn.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-02-22:** 群山的母亲  
+![](https://cn.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg&w=1000)[马姆托尔山，德比郡，英格兰 (© john finney photography/Getty Images)](https://cn.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
