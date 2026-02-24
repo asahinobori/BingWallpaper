@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-02-23:** 雪原之王  
-![](https://cn.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg&w=1000)[大白鹭，上巴伐利亚州，德国 (© Konrad Wothe/naturepl.com)](https://cn.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-02-24:** 池底的生命律动  
+![](https://cn.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg&w=1000)[大天坑里的睡莲，图卢姆，墨西哥 (© Christian Vizl/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
