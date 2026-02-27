@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-02-26:** 一幅壮丽的景象  
-![](https://cn.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_UHD.jpg&w=1000)[大峡谷和科罗拉多河，亚利桑那州，美国 (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-02-27:** 薄冰上的生活  
+![](https://cn.bing.com/th?id=OHR.ArcitcCub_ZH-CN2725049760_UHD.jpg&w=1000)[北极熊幼崽走过浮冰, 北极国家野生动物保护区, 阿拉斯加州, 美国 (© Steven Kazlowski/naturepl.com)](https://cn.bing.com/th?id=OHR.ArcitcCub_ZH-CN2725049760_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
