@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-03-01:** 每一步，都是传承  
-![](https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg&w=1000)[伊维萨岛, 巴利阿里群岛, 西班牙 (© tokar/Shutterstock)](https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-03-02:** 漂浮的传承  
+![](https://cn.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg&w=1000)[苏梅岛的港口和长尾船, 泰国 (© Foto2rich/Shutterstock)](https://cn.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
