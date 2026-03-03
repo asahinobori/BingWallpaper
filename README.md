@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-03-02:** 漂浮的传承  
-![](https://cn.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg&w=1000)[苏梅岛的港口和长尾船, 泰国 (© Foto2rich/Shutterstock)](https://cn.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-03-03:** 花灯映月，团圆吉祥  
+![](https://cn.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg&w=1000)[元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国 (© Grisha Bruev/Shutterstock)](https://cn.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
