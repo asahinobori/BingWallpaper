@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-03-04:** 聚光灯下的番红花  
-![](https://cn.bing.com/th?id=OHR.RilaCrocuses_ZH-CN3650360951_UHD.jpg&w=1000)[紫番红花, 里拉七湖, 保加利亚 (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.RilaCrocuses_ZH-CN3650360951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-03-05:** 古老岩石，现代灯光  
+![](https://cn.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg&w=1000)[格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)](https://cn.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
