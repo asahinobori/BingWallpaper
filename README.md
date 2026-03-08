@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-03-07:** 治愈、宁静且充满希望  
-![](https://cn.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg&w=1000)[布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)](https://cn.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-03-08:** 节约日光的艺术  
+![](https://cn.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg&w=1000)[乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)](https://cn.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
