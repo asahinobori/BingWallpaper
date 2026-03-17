@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-03-16:** 走进熊猫世界  
-![](https://cn.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg&w=1000)[正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)](https://cn.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-03-17:** 爱尔兰的精神十字路口  
+![](https://cn.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg&w=1000)[艾利赫格里安南环形堡，多内加尔，爱尔兰 (© Lukassek/Getty Images)](https://cn.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
