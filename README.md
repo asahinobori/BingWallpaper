@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-03-21:** 根系自由生长的地方  
-![](https://cn.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg&w=1000)[莱泰亚森林，多瑙河三角洲，罗马尼亚 (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-03-22:** 当水划出界线  
+![](https://cn.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_UHD.jpg&w=1000)[坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://cn.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
