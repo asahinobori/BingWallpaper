@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-03-26:** 凌驾荒野之上  
-![](https://cn.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg&w=1000)[洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-03-27:** 依然明亮地燃烧着  
+![](https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg&w=1000)[纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)](https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
