@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-03-29:** 海边的宁静  
-![](https://cn.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg&w=1000)[佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大 (© Prashanth Bala/Shutterstock)](https://cn.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-03-30:** 优雅的动态  
+![](https://cn.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg&w=1000)[蓑羽鹤, 印度 (© Axel Gomille/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
