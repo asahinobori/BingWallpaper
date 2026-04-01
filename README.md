@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-03-31:** 地下天堂  
-![](https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg&w=1000)[天堂洞, 峰牙-格邦国家公园, 越南 (© Pakawat Thongcharoen/Getty Images)](https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-04-01:** 跃入四月  
+![](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg&w=1000)[粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
