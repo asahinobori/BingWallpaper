@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-04-04:** 求偶展示场的故事  
-![](https://cn.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg&w=1000)[求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚 (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-04-05:** 静静绽放的变化  
+![](https://cn.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg&w=1000)[春天的雪钟花 (© klagyivik/Getty Images)](https://cn.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
