@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-04-06:** 芬芳四月  
-![](https://cn.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_UHD.jpg&w=1000)[樱花盛开的弘前城，弘前，日本 (© Glenn Waters/Getty Images)](https://cn.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-04-07:** 一根树枝，一点工程  
+![](https://cn.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_UHD.jpg&w=1000)[河狸，德国 (© Andyworks/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
