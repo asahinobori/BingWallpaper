@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-04-12:** 离开地球的第一步  
-![](https://cn.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg&w=1000)[城市灯光在下方划过, 拍摄于国际空间站 (© NASA)](https://cn.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-04-13:** 当灯光熄灭之后  
+![](https://cn.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_UHD.jpg&w=1000)[安扎-博雷戈沙漠州立公园上空的银河, 加利福尼亚州, 美国 (© Kevin Key/Slworking)/Getty Images)](https://cn.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
