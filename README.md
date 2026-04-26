@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-04-25:** 打破企鹅规则  
-![](https://cn.bing.com/th?id=OHR.GalapagosPenguins_ZH-CN5791845489_UHD.jpg&w=1000)[加拉帕戈斯企鹅游泳, 加拉帕戈斯群岛, 厄瓜多尔 (© Henley Spiers/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GalapagosPenguins_ZH-CN5791845489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-04-26:** 繁花盛放  
+![](https://cn.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_UHD.jpg&w=1000)[粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国 (© Mimi Ditchie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
