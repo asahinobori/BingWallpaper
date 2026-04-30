@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-04-29:** 历史镌刻于石上  
-![](https://cn.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_UHD.jpg&w=1000)[塔霍河岸边的贝伦塔, 里斯本, 葡萄牙 (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-04-30:** 郁金香是这里的主角  
+![](https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg&w=1000)[葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰 (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
