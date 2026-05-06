@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-05-05:** 藕花风起，首夏清和  
-![](https://cn.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg&w=1000)[莲花与莲花植株 (© real444/Getty Images)](https://cn.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-05-06:** 承受压力之下的平原  
+![](https://cn.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg&w=1000)[平原上空的雷暴，保加利亚 (© Revolu7ion93/Getty Images)](https://cn.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
