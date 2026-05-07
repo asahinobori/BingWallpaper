@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-05-06:** 承受压力之下的平原  
-![](https://cn.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg&w=1000)[平原上空的雷暴，保加利亚 (© Revolu7ion93/Getty Images)](https://cn.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-05-07:** 广袤铺展的沙漠  
+![](https://cn.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg&w=1000)[科法国家野生动物保护区，亚利桑那州，美国 (© Denis Tangney Jr/Getty Images)](https://cn.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
