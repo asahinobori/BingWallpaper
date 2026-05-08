@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-05-07:** 广袤铺展的沙漠  
-![](https://cn.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg&w=1000)[科法国家野生动物保护区，亚利桑那州，美国 (© Denis Tangney Jr/Getty Images)](https://cn.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-05-08:** 不仅仅是一声咿呀学语  
+![](https://cn.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg&w=1000)[撒丁岛母驴和幼崽, 法国 (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
