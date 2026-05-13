@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-05-12:** 振翅, 潜水, 生存  
-![](https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg&w=1000)[北极海鹦, 威尔士 (© FLPA/Alamy)](https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-05-13:** 银河系，摇滚吧！  
+![](https://cn.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg&w=1000)[拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
