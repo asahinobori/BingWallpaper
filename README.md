@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-05-15:** 鲸鱼，你会救我吗？  
-![](https://cn.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg&w=1000)[一群抹香鲸, 印度洋 (© Tony Wu/Nature Picture Library)](https://cn.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-05-16:** 跌到谷底？这里可不是。  
+![](https://cn.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_UHD.jpg&w=1000)[史密斯岩州立公园, 俄勒冈州, 美国 (© Alex Ratson/Getty Images)](https://cn.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
