@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-05-20:** 喧闹从这里开始  
-![](https://cn.bing.com/th?id=OHR.BumbleBee_ZH-CN6429376340_UHD.jpg&w=1000)[熊蜂在授粉, 伍斯特, 英格兰 (© SimonEastwood87/Shutterstock)](https://cn.bing.com/th?id=OHR.BumbleBee_ZH-CN6429376340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-05-21:** 酿造传承  
+![](https://cn.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg&w=1000)[四川省的茶梯田, 中国 (© lzf/Shutterstock)](https://cn.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
