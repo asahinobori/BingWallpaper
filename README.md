@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-05-22:** 海洋生命的律动  
-![](https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg&w=1000)[埃希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame_dpr/Alamy)](https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-05-23:** 为龟类喝彩！  
+![](https://cn.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_UHD.jpg&w=1000)[与蝴蝶在一起的乌龟 (© Patrick Gallet/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
