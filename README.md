@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-05-26:** 羽扇豆书写的季节  
-![](https://cn.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg&w=1000)[盛开的羽扇豆，北加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-05-27:** 它们“獭”独一无二  
+![](https://cn.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg&w=1000)[海獭，霍默卡奇马克湾，阿拉斯加州，美国 (© roclwyr/Getty Images)](https://cn.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
