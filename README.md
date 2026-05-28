@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-05-27:** 它们“獭”独一无二  
-![](https://cn.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg&w=1000)[海獭，霍默卡奇马克湾，阿拉斯加州，美国 (© roclwyr/Getty Images)](https://cn.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-05-28:** 设计与秩序相结合  
+![](https://cn.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg&w=1000)[华城堡的古城墙，水原，韩国 (© aomam/Getty Images)](https://cn.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
