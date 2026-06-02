@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-06-01:** 历史的况味  
-![](https://cn.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg&w=1000)[巴勒莫暮色下的天际线，西西里岛，意大利 (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-06-02:** 穿行于蓝色之间  
+![](https://cn.bing.com/th?id=OHR.Qinghai_ZH-CN7745288142_UHD.jpg&w=1000)[穿越西台吉乃尔湖的公路，青海省，中国 (© Kaicheng Xu/Getty Images)](https://cn.bing.com/th?id=OHR.Qinghai_ZH-CN7745288142_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
