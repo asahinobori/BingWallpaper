@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-06-04:** 优雅羽饰  
-![](https://cn.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg&w=1000)[梳理羽毛的雪鹭，佛罗里达州中部，美国 (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-06-05:** 无人问津之地的静默力量  
+![](https://cn.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg&w=1000)[从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰 (© Robert Haasmann/Getty Images)](https://cn.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
