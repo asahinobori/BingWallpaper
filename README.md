@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-06-07:** 最后一堵墙矗立着  
-![](https://cn.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_UHD.jpg&w=1000)[邓塞弗里克城堡遗址, 安特里姆郡, 北爱尔兰 (© Krzysztof Rogalski/Getty Images)](https://cn.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-06-08:** 随波逐流  
+![](https://cn.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg&w=1000)[在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
