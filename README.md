@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-06-08:** 随波逐流  
-![](https://cn.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg&w=1000)[在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-06-09:** 品尝日落  
+![](https://cn.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg&w=1000)[韦尔纳扎, 五渔村, 利古里亚, 意大利 (© Kelly Cheng/Getty Images)](https://cn.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
