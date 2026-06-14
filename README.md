@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-06-13:** 岁月的层峦  
-![](https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg&w=1000)[落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-06-14:** 潜羽探清波  
+![](https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg&w=1000)[绿头鸭 (© Philippe Paternolli/Getty Images)](https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
