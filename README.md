@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-06-14:** 潜羽探清波  
-![](https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg&w=1000)[绿头鸭 (© Philippe Paternolli/Getty Images)](https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-06-15:** 岁月雕琢，风景始成  
+![](https://cn.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg&w=1000)[大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
