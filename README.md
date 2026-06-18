@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-06-17:** 蜿蜒而上  
-![](https://cn.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_UHD.jpg&w=1000)[特雷莫拉公路在圣哥达山口，艾罗洛，瑞士 (© Sandro Bisaro/Getty Images)](https://cn.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-06-18:** 坚如磐石的奇观  
+![](https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg&w=1000)[萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)](https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
