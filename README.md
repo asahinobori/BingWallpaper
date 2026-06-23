@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-06-22:** 一个郁郁葱葱的王国  
-![](https://cn.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg&w=1000)[奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-06-23:** 天际线上的印记  
+![](https://cn.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg&w=1000)[本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)](https://cn.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
