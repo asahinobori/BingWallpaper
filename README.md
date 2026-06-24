@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-06-23:** 天际线上的印记  
-![](https://cn.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg&w=1000)[本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)](https://cn.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-06-24:** 花粉与翅膀相遇  
+![](https://cn.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg&w=1000)[蝴蝶正在黄花上授粉 (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
