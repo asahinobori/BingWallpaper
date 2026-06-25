@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-06-24:** 花粉与翅膀相遇  
-![](https://cn.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg&w=1000)[蝴蝶正在黄花上授粉 (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-06-25:** 在广场中感受历史  
+![](https://cn.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg&w=1000)[布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)](https://cn.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
