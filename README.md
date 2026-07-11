@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-07-10:** 陆地与海洋的鸟瞰图  
-![](https://cn.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg&w=1000)[陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)](https://cn.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-07-11:** 布列塔尼的潮汐之约  
+![](https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg&w=1000)[圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)](https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
