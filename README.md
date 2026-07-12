@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-07-11:** 布列塔尼的潮汐之约  
-![](https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg&w=1000)[圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)](https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-07-12:** 缅因州的狂野一面  
+![](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&w=1000)[卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
