@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-07-14:** 奇妙的真相  
-![](https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg&w=1000)[柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-07-15:** 攀登后的奖励  
+![](https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg&w=1000)[玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)](https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
