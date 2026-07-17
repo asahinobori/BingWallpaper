@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-07-16:** 滨水变色龙  
-![](https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg&w=1000)[海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)](https://cn.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-07-17:** 希腊式的逃离  
+![](https://cn.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg&w=1000)[瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)](https://cn.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
