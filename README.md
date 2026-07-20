@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-07-19:** 敛羽栖时  
-![](https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg&w=1000)[不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-07-20:** 月瞰寰宇  
+![](https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg&w=1000)[月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)](https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
