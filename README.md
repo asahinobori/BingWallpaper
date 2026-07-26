@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-07-25:** 加境幽廊  
-![](https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg&w=1000)[大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)](https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-07-26:** 海陆际会，生机肇始  
+![](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg&w=1000)[红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
