@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-07-27:** 仰望芝城，流光溢彩  
-![](https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg&w=1000)[蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国 (© Felix Lipov/Shutterstock)](https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-07-28:** 生机律动，恒久之衡  
+![](https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg&w=1000)[一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国 (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
