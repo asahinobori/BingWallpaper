@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-08-05:** 秘境之门，匠心传世  
-![](https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg&w=1000)[非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)](https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-08-06:** 生死渡口，勇者的史诗  
+![](https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg&w=1000)[马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)](https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
