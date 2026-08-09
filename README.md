@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-08-08:** 迈向无限  
-![](https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg&w=1000)[蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)](https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-08-09:** 身份认同的建筑表达  
+![](https://cn.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg&w=1000)[让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)](https://cn.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
