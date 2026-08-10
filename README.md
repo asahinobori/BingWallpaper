@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-08-09:** 身份认同的建筑表达  
-![](https://cn.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg&w=1000)[让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)](https://cn.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-08-10:** 两片沙漠交汇之地  
+![](https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg&w=1000)[约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)](https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
