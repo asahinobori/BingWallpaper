@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-08-10:** 两片沙漠交汇之地  
-![](https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg&w=1000)[约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)](https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-08-11:** 绚丽多彩的哥本哈根  
+![](https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg&w=1000)[哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)](https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
