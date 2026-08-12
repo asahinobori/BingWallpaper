@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-08-11:** 绚丽多彩的哥本哈根  
-![](https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg&w=1000)[哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)](https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-08-12:** 值得守护的巨兽  
+![](https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg&w=1000)[安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)](https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
