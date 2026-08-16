@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-08-15:** 绝妙的平衡术  
-![](https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_UHD.jpg&w=1000)[圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国 (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-08-16:** 天鹅开启传奇之处  
+![](https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg&w=1000)[戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)](https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
