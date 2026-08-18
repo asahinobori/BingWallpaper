@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-08-17:** 珊瑚礁上的黄金地段  
-![](https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg&w=1000)[海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)](https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-08-18:** 星形城市的几何之美  
+![](https://cn.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg&w=1000)[弗留利要塞城市帕尔马诺瓦航拍图，意大利 (© Riccardo Saponi/Getty Images)](https://cn.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
