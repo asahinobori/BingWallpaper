@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-08-18:** 星形城市的几何之美  
-![](https://cn.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg&w=1000)[弗留利要塞城市帕尔马诺瓦航拍图，意大利 (© Riccardo Saponi/Getty Images)](https://cn.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-08-19:** 浪潮间的通道  
+![](https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg&w=1000)[怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)](https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
