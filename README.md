@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-08-19:** 浪潮间的通道  
-![](https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg&w=1000)[怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)](https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-08-20:** 鲸群之声  
+![](https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg&w=1000)[林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)](https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
