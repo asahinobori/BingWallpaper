@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-08-24:** 跨越历史  
-![](https://cn.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg&w=1000)[布鲁克林大桥，纽约市，美国 (© shayes17/Getty Images)](https://cn.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-08-25:** 守护美国瑰宝  
+![](https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg&w=1000)[红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
