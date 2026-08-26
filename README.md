@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-08-25:** 守护美国瑰宝  
-![](https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg&w=1000)[红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-08-26:** 流光溢彩的天空  
+![](https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg&w=1000)[基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
