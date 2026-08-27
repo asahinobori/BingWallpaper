@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-08-26:** 流光溢彩的天空  
-![](https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg&w=1000)[基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-08-27:** 湖水、野生动物与奇景  
+![](https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg&w=1000)[日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
