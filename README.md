@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-08-28:** 潮汐塑造的传奇  
-![](https://cn.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg&w=1000)[涨潮时的圣米歇尔山，芒什省，诺曼底，法国 (© Clement LEONARD/Getty Images)](https://cn.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-08-29:** 读懂浪涛之间的讯息  
+![](https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg&w=1000)[冲浪者航拍图，圣卡塔琳娜州，巴西 (© Wonderful Nature/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
