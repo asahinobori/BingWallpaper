@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-09-08:** 金色田野  
-![](https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg&w=1000)[东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-09-09:** 印度西海岸的生活  
+![](https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg&w=1000)[安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
