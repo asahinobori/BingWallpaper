@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-09-10:** 俯瞰大地拼图  
-![](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg&w=1000)[奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-09-11:** 地中海风情尽显  
+![](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg&w=1000)[滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
