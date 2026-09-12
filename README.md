@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-09-11:** 地中海风情尽显  
-![](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg&w=1000)[滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-09-12:** 海浪与海岸的高手  
+![](https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg&w=1000)[墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
