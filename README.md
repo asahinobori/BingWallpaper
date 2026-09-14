@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-09-13:** 高处的珊瑚礁  
-![](https://cn.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg&w=1000)[米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利 (© Vithun Khamsong/Getty Images)](https://cn.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-09-14:** 坚韧在此扎根  
+![](https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg&w=1000)[地肤田，中国 (© lingqi xie/Getty Images)](https://cn.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
