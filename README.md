@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-09-17:** 为丰收举杯  
-![](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg&w=1000)[桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国 (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-09-18:** 穿越山口腹地  
+![](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg&w=1000)[温纳茨山口，峰区国家公园，英格兰 (© Daniel_Kay/Getty Images)](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
