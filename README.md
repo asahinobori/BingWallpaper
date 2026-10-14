@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-10-13:** 蓝与绿的交响曲  
-![](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&w=1000)[普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-10-14:** 穿越时间的螺旋  
+![](https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&w=1000)[侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)](https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
