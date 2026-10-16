@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-10-15:** 桥梁、屋顶与暮色  
-![](https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg&w=1000)[弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)](https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-10-16:** 一窥科罗拉多群峰  
+![](https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg&w=1000)[斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
