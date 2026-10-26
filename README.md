@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-10-25:** 群峰与宁静相遇之地  
-![](https://cn.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg&w=1000)[玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)](https://cn.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-10-26:** 大自然的秋日乐章  
+![](https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg&w=1000)[秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚 (© Nadya85/Getty Images)](https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
