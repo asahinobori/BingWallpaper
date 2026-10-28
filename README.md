@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-10-27:** 大自然的金色明镜  
-![](https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg&w=1000)[秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)](https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-10-28:** 历史守望之地  
+![](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg&w=1000)[库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
