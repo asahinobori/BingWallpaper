@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-10-30:** 展翅高飞的时节  
-![](https://cn.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg&w=1000)[沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国 (© Terry St.Louis/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-10-31:** 往昔帝国的幽影  
+![](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg&w=1000)[圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
