@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-11-03:** 群峰间的宁静  
-![](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg&w=1000)[布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-11-04:** 泛舟如画秋林  
+![](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg&w=1000)[五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
