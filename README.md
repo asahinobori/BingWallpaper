@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-11-12:** 没有建筑师的建筑杰作  
-![](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg&w=1000)[北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-11-13:** 冰下秘境  
+![](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg&w=1000)[亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
