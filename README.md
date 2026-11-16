@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-11-15:** 霜染枝叶  
-![](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg&w=1000)[覆霜的红叶杜鹃 (© avoferten/Shutterstock)](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-11-16:** 历经岁月，屹立不倒  
+![](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg&w=1000)[美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
