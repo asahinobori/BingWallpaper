@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-11-16:** 历经岁月，屹立不倒  
-![](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg&w=1000)[美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-11-17:** 走进广阔的大自然  
+![](https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg&w=1000)[雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
