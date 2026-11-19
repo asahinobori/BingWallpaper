@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-11-18:** 从黄昏狩猎到黎明  
-![](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg&w=1000)[一对仓鸮 (© Zahoor Salmi/Getty Images)](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-11-19:** 思想在此成形  
+![](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg&w=1000)[雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学 (© Todamo/Shutterstock)](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
