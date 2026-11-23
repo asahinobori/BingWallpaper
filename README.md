@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-11-22:** 海浪间的庇护所  
-![](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg&w=1000)[西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-11-23:** 自然中的几何之美  
+![](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg&w=1000)[蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
