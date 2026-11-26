@@ -1,6 +1,6 @@
 # Bing Wallpaper
-**2026-11-25:** 美国西南部的一场雪  
-![](https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg&w=1000)[日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)](https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
+**2026-11-26:** 彩虹落下的地方  
+![](https://cn.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg&w=1000)[怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images)](https://cn.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=2560&h=1440&rs=1&c=4)
   
 # About
 **1) Download bing wallpaper**  
